@@ -19,7 +19,7 @@ See the [People](/people) pages for more complete lists and Google Scholar links
 
 - Zawada KJA, Dornelas M, Madin JS (preprint) Quantifying coral morphology. bioRxiv, [[link](https://doi.org/10.1101/553453)]]
 
-- Zawada KJA, Madin JS, Baird AH, Bridge TCL, Dornelas M (2019) Morphological traits can track coral reef responses to the Anthropocene. *Functional Ecology*, [[link](https://doi.org/10.1111/1365-2435.13358)]]
+- Zawada KJA, Madin JS, Baird AH, Bridge TCL, Dornelas M (2019) Morphological traits can track coral reef responses to the Anthropocene. *Functional Ecology*, [[link](https://doi.org/10.1111/1365-2435.13358)]
 
 ### 2018
 
