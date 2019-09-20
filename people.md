@@ -1,6 +1,7 @@
 ---
 layout: page
 title: People
+permalink: /people/
 sidebar_link: true
 ---
 
