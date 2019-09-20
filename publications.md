@@ -5,7 +5,7 @@ permalink: /publications/
 sidebar_link: true
 ---
 
-These are recent publications since starting at HIMB. Go to [People](/people) pages for more complete lists and/or Google Scholar links.
+These are recent publications since starting at HIMB. Go to [People](/people) pages for more complete lists and Google Scholar links.
 
 ### 2019
 
