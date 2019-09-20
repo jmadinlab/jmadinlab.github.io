@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Recent Publications
+title: Publications
 permalink: /publications/
 sidebar_link: true
 ---
 
-See the [People](/people) pages for more complete lists and Google Scholar links.
+These are recent publications since starting at HIMB. Go to [People](/people) pages for more complete lists and/or Google Scholar links.
 
 ### 2019
 
