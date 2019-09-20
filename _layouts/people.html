@@ -1,0 +1,23 @@
+---
+layout: default
+---
+<article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.name | escape }}</h1>
+  </header>
+
+  <div class="post-content">
+    <div class="sideDiv">
+      <img src="/assets/{{ page.id }}.jpg" width="200px" />
+    </div>
+    <div class="sideDiv">
+      Email: <a href="mailto:{{ page.email }}">{{ page.email }}</a><br>
+      GitHub: <a href="https://github.com/{{ page.github }}">{{ page.github }}</a><br>
+      Twitter: <a href="https://twitter.com/{{ page.twitter }}">@{{ page.twitter }}</a><br>
+      Scholar: <a href="https://scholar.google.com.au/citations?hl=en&user={{ page.scholar }}">{{ page.scholar }}</a><br>
+    </div>
+    {{ content }}
+  </div>
+
+</article>
