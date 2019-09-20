@@ -56,5 +56,5 @@ paginate: 5
 #   - vendor/ruby/
 
 collections:
-    people:
-        output: true
+  people:
+    output: true
