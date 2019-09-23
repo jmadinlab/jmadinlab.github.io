@@ -3,7 +3,7 @@ layout: people
 id: dama
 name: Damaris Torres-Pulliza
 email: dama.reefs@gmail.com
-github: 
+github: 4reefs
 scholar: 
 twitter: 4reefs
 ---
