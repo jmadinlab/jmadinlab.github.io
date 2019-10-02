@@ -21,12 +21,6 @@ My interests are in coral reef ecology, the effects of large disturbances on cor
 
 ### Teaching
 
-2016-present: Research Assistant
-Water Resources Research Centre, 
-University of Hawaii at Mānoa.
-
-2018-present: GENE-IUS Day instructor	
-Research Corporation of the University of Hawaii					
-
-Spring 2016: Teaching Assistant, Ecology and Evolution (265L) 		
-University of Hawaii
+- 2016-present: Research Assistant, Water Resources Research Centre, University of Hawaii at Mānoa.
+- 2018-present: GENE-IUS Day instructor,	Research Corporation of the University of Hawaii					
+- Spring 2016: Teaching Assistant, Ecology and Evolution (265L), University of Hawaii

@@ -20,9 +20,9 @@ github: jmadin
 
 My main interests are quantitative ecology, biophysics and informatics. My big academic challenges at the moment are:
 
-- Effects of storm waves on coral reefs
-- The Coral Trait Database
-- Coral biogeographical range shifts
+- Coupling reef geometry and biodiversity
+- Coral demography, morphological traits and life history trade-offs
+- Trait Databases and supporting the [Open Traits Network](https://opentraits.org)
 
 ### Teaching
 
