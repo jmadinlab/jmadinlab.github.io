@@ -11,7 +11,6 @@ sidebar_link: true
 
 ### Past members
 
-- Dr Mariana Alvarez Noriega (Honours, PhD)
 - Viviana Brambilla (PhD)
 - Peter David (Masters)
 - Marcela Diaz (Research Assistant)
@@ -19,7 +18,6 @@ sidebar_link: true
 - Liesl Grant (Undergraduate Project)
 - Dr Aaron Harmer (Postdoc)
 - Ludovic Hoarau (Masters)
-- Dr Chao-Yang (CY) Kuo (PhD, Research Assistant)
 - Dr Osmar Luiz Jr (PhD)
 - Alisha Madsen (Honours, Research Assistant)
 - Dr Joseph Maina (PhD)
