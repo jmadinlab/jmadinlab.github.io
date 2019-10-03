@@ -20,7 +20,7 @@ sidebar_link: true
 - Dr Osmar Luiz Jr (PhD)
 - Alisha Madsen (Honours, Research Assistant)
 - Dr Joseph Maina (PhD)
-- Dr Julieta Martinelli (PhD)) 
+- Dr Julieta Martinelli (PhD)
 - Dr Toni Mizerek (PhD)
 - Elisa Plati (Research Assistant)
 - Alex Robinson (Undergraduate Project) 
