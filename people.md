@@ -11,7 +11,6 @@ sidebar_link: true
 
 ### Past members
 
-- Viviana Brambilla (PhD)
 - Peter David (Masters)
 - Marcela Diaz (Research Assistant)
 - Marguerite Gosse (Research Assistant) 
