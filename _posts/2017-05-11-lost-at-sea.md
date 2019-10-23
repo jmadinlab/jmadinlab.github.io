@@ -5,7 +5,7 @@ date:   2017-05-23
 categories: research
 ---
 
-<img src="/assets/lost-at-sea.jpeg" width="300"/>
+<img src="/assets/lost-at-sea.jpeg" width="400"/>
 
 Coral larvae depend on their parents to create nooks and crannies for them so that they can stay, settle and re-establish after a reef has been damaged, according to new findings <a href="https://www.nature.com/articles/s41598-017-02402-y">published this week</a>.
 

@@ -5,7 +5,7 @@ date:   2017-11-06
 categories: news
 ---
 
-<img src="/assets/3dscan.png" width="300"/>
+<img src="/assets/3dscan.png" width="400"/>
 
 Hawaii Institute of Marine Biology
 University of Hawaii at Manoa

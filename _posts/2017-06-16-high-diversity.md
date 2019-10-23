@@ -5,7 +5,7 @@ date:   2017-06-16
 categories: research
 ---
 
-<img src="/assets/high-diversity.jpg" width="300"/>
+<img src="/assets/high-diversity.jpg" width="400"/>
 
 For a long time, scientists have wondered how a large number of species can live together while competing for a single, limiting resource. Why doesn’t a single species that is better at competing for the resource crowd out all the others?  According to new findings appearing in <a href="http://dx.doi.org/10.1086/692758" target="_blank">American Naturalist</a>, the answer to this question on coral reefs is like a very big game of rock-paper-scissors.
 
