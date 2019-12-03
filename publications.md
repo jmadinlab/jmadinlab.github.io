@@ -17,13 +17,15 @@ These are recent publications since starting at HIMB. Go to [People](/people) pa
 
 - Hughes TP, Kerry JT, Baird AH, Connolly SR, Chase TJ, Dietzel A, Hill T, Hoey AS, Hoogenboom MO, Jacobson M, Kerswell A, Madin JS, Mieog A, Paley AS, Pratchett MS, Torda G, Woods RM (2019) Global warming impairs stock–recruitment dynamics of corals. *Nature*, 568:387–390. [[link](https://www.nature.com/articles/s41586-019-1081-y)]
 
-- Madin EMP, Harborne AR, Harmer AMT, Luiz OJ, Atwood TB, Sullivan BJ, Madin JS (2019) Marine reserves shape seascapes on scales visible from space. *Proc R Soc B*,  [[link](https://doi.org/10.1098/rspb.2019.0053)]
+- Madin EMP, Harborne AR, Harmer AMT, Luiz OJ, Atwood TB, Sullivan BJ, Madin JS (2019) Marine reserves shape seascapes on scales visible from space. *Proc R Soc B*, 286:20190053. [[link](https://doi.org/10.1098/rspb.2019.0053)]
 
-- Roberts TE, Bridge TCL, Caley MJ, Madin JS, Baird AH (2019) Resolving the depth zonation paradox in reef‐building corals. *Ecology*, [[link](https://doi.org/10.1002/ecy.2761)]
+- Madin JS, Baird AH, Baskett ML, Connolly SR, Dornelas MA (2019) Partitioning colony size variation into growth and partial mortality. Accepted: *Biology Letters*.
 
-- Zawada KJA, Dornelas M, Madin JS (2019) Quantifying coral morphology. *Coral Reefs*, [[link](https://doi.org/10.1007/s00338-019-01842-4)] [[bioRxiv](https://doi.org/10.1101/553453)]
+- Roberts TE, Bridge TCL, Caley MJ, Madin JS, Baird AH (2019) Resolving the depth zonation paradox in reef‐building corals. *Ecology*, 100:e02761. [[link](https://doi.org/10.1002/ecy.2761)]
 
-- Zawada KJA, Madin JS, Baird AH, Bridge TCL, Dornelas M (2019) Morphological traits can track coral reef responses to the Anthropocene. *Functional Ecology*, [[link](https://doi.org/10.1111/1365-2435.13358)]
+- Zawada KJA, Dornelas M, Madin JS (2019) Quantifying coral morphology. *Coral Reefs*, 38:1281–1292. [[link](https://doi.org/10.1007/s00338-019-01842-4)] [[bioRxiv](https://doi.org/10.1101/553453)]
+
+- Zawada KJA, Madin JS, Baird AH, Bridge TCL, Dornelas M (2019) Morphological traits can track coral reef responses to the Anthropocene. *Functional Ecology*, 33:962-975. [[link](https://doi.org/10.1111/1365-2435.13358)]
 
 ### 2018
 
