@@ -7,6 +7,14 @@ sidebar_link: true
 
 These are recent publications since starting at HIMB. Go to [People](/people) pages for more complete lists and Google Scholar links.
 
+### 2020
+
+- Bridge TCL, Luiz OJ, Kuo C-Y, Precoda K, Madin EMP, Madin JS, Baird AH (2020) Incongruence between life-history traits and conservation status in reef corals. *Coral Reefs*, [[link](https://doi.org/10.1007/s00338-019-01885-7)]
+
+- Gallagher RV, Falster DS, Maitner BS, Salguero-Gomez R, Vandvik V, Pearse WD, Schneider FD, Kattge J, Alroy J, Ankenbrand MJ, Andrew SC, Balk M, Bland LM, Boyle BL, Bravo-Avila CH, Brennan I, Carthey AJR, Catullo R, Cavazos BR, Chown S, Fadrique B, Feng X, Gibb H, Halbritter AH, Hammock J, Hogan JA, Holewa H, Hope M, Iversen CM, Jochum M, Kearney M, Keller A, Mabee P, Madin JS, Manning P, McCormack L, Michaletz ST, Penone C, Perez TM, Pineda-Munoz S, Poelen J, Ray CA, Rossetto M, Sauquet H, Sparrow B, Spasojevic MJ, Telford RJ, Tobias JA, Violle C, Walls R, Weiss KCB, Westoby M, Wright IJ, Enquist BJ (In press) The Open Traits Network: Using Open Science principles to accelerate trait-based science across the Tree of Life. *Nature Ecology & Evolution*, [[link](https://doi.org/10.32942/osf.io/kac45)]
+
+- Madin JS, Baird AH, Baskett ML, Connolly SR, Dornelas MA (2020) Partitioning colony size variation into growth and partial mortality. *Biology Letters*, [[link](https://doi.org/10.1098/rsbl.2019.0727)]
+
 ### 2019
 
 - Dornelas M, Madin EMP, Bunce M, DiBattista JD, Johnson M, Madin JS, Magurran AE, McGill BJ, Pettorelli N, Pizarro O, Williams SB, Winter M, Bates AE (2019) Towards a macroscope: Leveraging technology to transform the breadth, scale and resolution of macroecological data. *Global Ecology and Biogeography* 28:1937–1948. [[https://doi.org/10.1111/geb.13025](https://doi.org/10.1111/geb.13025)]
