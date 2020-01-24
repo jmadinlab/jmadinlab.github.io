@@ -13,11 +13,17 @@ layout: default
     </div>
     <div class="sideDiv">
       Email: <a href="mailto:{{ page.email }}">{{ page.email }}</a><br>
+      {% if page.website %}
+        Website: <a href="https://{{ page.website }}">{{ page.website }}</a><br>
+      {% endif %}
       {% if page.github %}
         GitHub: <a href="https://github.com/{{ page.github }}">{{ page.github }}</a><br>
       {% endif %}
       {% if page.twitter %}
         Twitter: <a href="https://twitter.com/{{ page.twitter }}">@{{ page.twitter }}</a><br>
+      {% endif %}
+      {% if page.sketchfab %}
+        Sketchfab: <a href="https://www.sketchfab.com/{{ page.sketchfab }}">{{ page.sketchfab }}</a><br>
       {% endif %}
       {% if page.scholar %}
         Scholar: <a href="https://scholar.google.com.au/citations?hl=en&user={{ page.scholar }}">{{ page.scholar }}</a><br>

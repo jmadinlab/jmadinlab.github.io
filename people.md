@@ -13,7 +13,7 @@ sidebar_link: true
 
 - Peter David (Masters)
 - Marcela Diaz (Research Assistant)
-- Marguerite Gosse (Research Assistant) 
+- Marguerite Gosse (Research Assistant)
 - Liesl Grant (Undergraduate Project)
 - Dr Aaron Harmer (Postdoc)
 - Ludovic Hoarau (Masters)
@@ -23,7 +23,8 @@ sidebar_link: true
 - Dr Julieta Martinelli (PhD)
 - Dr Toni Mizerek (PhD)
 - Elisa Plati (Research Assistant)
-- Alex Robinson (Undergraduate Project) 
+- Dr Kristin Precoda (Research Assistant)
+- Alex Robinson (Undergraduate Project)
 - Jack Roxburgh (Undergraduate Project)
 - Sheena Su (Masters)
 - Dr Rachael Woods (Masters, PhD)
