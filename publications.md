@@ -11,7 +11,7 @@ These are recent publications since starting at HIMB. Go to [People](/people) pa
 
 - Bridge TCL, Luiz OJ, Kuo C-Y, Precoda K, Madin EMP, Madin JS, Baird AH (2020) Incongruence between life-history traits and conservation status in reef corals. *Coral Reefs*, [[link](https://doi.org/10.1007/s00338-019-01885-7)]
 
-- Gallagher RV, Falster DS, Maitner BS, Salguero-Gomez R, Vandvik V, Pearse WD, Schneider FD, Kattge J, Alroy J, Ankenbrand MJ, Andrew SC, Balk M, Bland LM, Boyle BL, Bravo-Avila CH, Brennan I, Carthey AJR, Catullo R, Cavazos BR, Chown S, Fadrique B, Feng X, Gibb H, Halbritter AH, Hammock J, Hogan JA, Holewa H, Hope M, Iversen CM, Jochum M, Kearney M, Keller A, Mabee P, Madin JS, Manning P, McCormack L, Michaletz ST, Penone C, Perez TM, Pineda-Munoz S, Poelen J, Ray CA, Rossetto M, Sauquet H, Sparrow B, Spasojevic MJ, Telford RJ, Tobias JA, Violle C, Walls R, Weiss KCB, Westoby M, Wright IJ, Enquist BJ (In press) The Open Traits Network: Using Open Science principles to accelerate trait-based science across the Tree of Life. *Nature Ecology & Evolution*, [[link](https://doi.org/10.32942/osf.io/kac45)]
+- Gallagher RV, Falster DS, Maitner BS, Salguero-Gomez R, Vandvik V, Pearse WD, Schneider FD, Kattge J, Poelen J, Madin JS, Ankenbrand MJ, Penone C, Feng X, Adams VM, Alroy J, Andrew SC, Balk M, Bland LM, Boyle BL, Bravo-Avila CH, Brennan I, Carthey AJR, Catullo R, Cavazos BR, Chown S, Fadrique B, Gibb H, Halbritter AH, Hammock J, Hogan JA, Holewa H, Hope M, Iversen CM, Jochum M, Kearney M, Keller A, Mabee P, Manning P, McCormack L, Michaletz ST, Perez TM, Pineda-Munoz S, Ray CA, Rossetto M, Sauquet H, Sparrow B, Spasojevic MJ, Telford RJ, Tobias JA, Violle C, Walls R, Weiss KCB, Westoby M, Wright IJ, Enquist BJ (In press) The Open Traits Network: Using Open Science principles to accelerate trait-based science across the Tree of Life. *Nature Ecology & Evolution*, [[link](https://doi.org/10.32942/osf.io/kac45)]
 
 - Madin JS, Baird AH, Baskett ML, Connolly SR, Dornelas MA (2020) Partitioning colony size variation into growth and partial mortality. *Biology Letters*, [[link](https://doi.org/10.1098/rsbl.2019.0727)]
 
@@ -21,13 +21,9 @@ These are recent publications since starting at HIMB. Go to [People](/people) pa
 
 - Fontoura L, Zawada KJA, D’agata S, Álvarez-Noriega M, Baird AH, Boutros N, Dornelas M, Luiz OJ, Madin JS, Maina JM, Pizarro O, Torres-Pulliza D, Woods RM and Madin EMP (2019) Climate-driven shift in coral morphological structure predicts decline of juvenile reef fishes. *Global Change Biology*. [[https://doi.org/10.1111/gcb.14911](https://doi.org/10.1111/gcb.14911)]
 
-- Gallagher RV, Falster DS, Maitner BS, Salguero-Gomez R, Vandvik V, Pearse WD, Schneider FD, Kattge J, Alroy J, Ankenbrand MJ, Andrew SC, Balk M, Bland LM, Boyle BL, Bravo-Avila CH, Brennan I, Carthey AJR, Catullo R, Cavazos BR, Chown S, Fadrique B, Feng X, Gibb H, Halbritter AH, Hammock J, Hogan JA, Holewa H, Hope M, Iversen CM, Jochum M, Kearney M, Keller A, Mabee P, Madin JS, Manning P, McCormack L, Michaletz ST, Penone C, Perez TM, Pineda-Munoz S, Poelen J, Ray CA, Rossetto M, Sauquet H, Sparrow B, Spasojevic MJ, Telford RJ, Tobias JA, Violle C, Walls R, Weiss KCB, Westoby M, Wright IJ, Enquist BJ (2019) The Open Traits Network: Using Open Science principles to accelerate trait-based science across the Tree of Life. Accepted: *Nature Ecology and Evolution*. [[EcoEvoRxiv](https://doi.org/10.32942/osf.io/kac45)]
-
 - Hughes TP, Kerry JT, Baird AH, Connolly SR, Chase TJ, Dietzel A, Hill T, Hoey AS, Hoogenboom MO, Jacobson M, Kerswell A, Madin JS, Mieog A, Paley AS, Pratchett MS, Torda G, Woods RM (2019) Global warming impairs stock–recruitment dynamics of corals. *Nature*, 568:387–390. [[link](https://www.nature.com/articles/s41586-019-1081-y)]
 
 - Madin EMP, Harborne AR, Harmer AMT, Luiz OJ, Atwood TB, Sullivan BJ, Madin JS (2019) Marine reserves shape seascapes on scales visible from space. *Proc R Soc B*, 286:20190053. [[link](https://doi.org/10.1098/rspb.2019.0053)]
-
-- Madin JS, Baird AH, Baskett ML, Connolly SR, Dornelas MA (2019) Partitioning colony size variation into growth and partial mortality. Accepted: *Biology Letters*.
 
 - Roberts TE, Bridge TCL, Caley MJ, Madin JS, Baird AH (2019) Resolving the depth zonation paradox in reef‐building corals. *Ecology*, 100:e02761. [[link](https://doi.org/10.1002/ecy.2761)]
 
