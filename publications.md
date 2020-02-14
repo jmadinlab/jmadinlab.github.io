@@ -45,7 +45,7 @@ These are recent publications since starting at HIMB. Go to [People](/people) pa
 
 - Álvarez-Noriega M, Baird AH, Bridge T, Dornelas M, Fontoura L, Precoda K, Torres-Pulliza D, Woods R, Zawada K, Madin JS (2018) Contrasting patterns of changes in abundance following a bleaching event between juvenile and adult scleractinian corals. *Coral Reefs*, 37:527-532.
 
-- Álvarez-Noriega M, Baird AH, Dornelas M, Madin JS, Connolly SR (2018) Negligible effect of competition on coral colony growth. *Ecology*, [link](https://doi.org/10.1002/ecy.2222)
+- Álvarez-Noriega M, Baird AH, Dornelas M, Madin JS, Connolly SR (2018) Negligible effect of competition on coral colony growth. *Ecology*, 99:1347-1356. [link](https://doi.org/10.1002/ecy.2222)
 
 - House JE, Brambilla V, Bidaut LM, Christie AP, Pizarro O, Madin JS, Dornelas M (2018) Moving to 3D: relationships between coral planar area, surface area and volume. *PeerJ*, 6:e4280 [link](https://peerj.com/manuscripts/13331)
 
