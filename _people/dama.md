@@ -9,17 +9,17 @@ github: 4reefs
 
 ### History
 
-
-- *PhD Candidate (2016 - present) Marine Quantitative Ecology - Dept of Biological Sciences, Macquarie University, Australia*
-- *Founder President (2006 - 2016) Sinoptica Ltda, USA, CRC, BRA*
-- *Research Assistant (2002 - 2006) Institute for Marine Remote Sensing, University of South Florida, USA*
-- *MSc in Geology (2004) University of Puerto Rico at Mayagüez, USA Thesis: A Multi-Sensor Comparison for Coral Reef Habitat Mapping: A case study using a tropical patch reef environment in Biscayne National Park, Florida, USA*
-- *Research Assistant (2000 - 2002) USGS Coastal and Marine Science Center - Contractual through ETI, St Petersburg, FL, USA*
-- *BA in Geography (1996) University of Puerto Rico at Rio Piedras, USA*
-
+- *2019-Present: Visiting Graduate Researcher at J Madin Lab Hawai’i Inst. for Marine Biology, Hawai’i*	
+- *2016-present: PhD Candidate, Marine Quantitative Ecology, Dept of Biological Sciences, Macquarie University, Australia*
+- *2006–2016: Founder President, Sinoptica, USA, Costa Rica, Brazil*
+- *2002–2006: Research Assistant, Inst. for Marine Remote Sensing, University of South Florida, FL* 
+- *2000–2002: Research Assistant, USGS Coastal & Marine Science Center, St Petersburg, FL*
+- *1997–1999: Graduate Research Assistant, Department of Geology, UPRM, PR* 
+- *1996-1997: Graduate Teaching Assistant, Department of Geology, UPRM, PR*
+- *1992-1996: BA in Geography at the University of Puerto Rico at Rio Piedras, PR, USA*
 
 ### Research
 
-My research interests revolves around understanding the hierarchical mechanisms of reef geometric complexity underlying coral reef biodiversity.  Specifically, I’m interested in quantifying and predicting the structural consequences of climate-associated disturbances and how these cascade along ecological lines to affect coral reefs ecological functions locally and regionally.  
+My research interests revolves around understanding the hierarchy of mechanisms in reef geometric complexity underlying coral reef biodiversity.  Specifically, I’m interested in quantifying and predicting the structural consequences of climate-associated disturbances and how these cascade along ecological lines, in space and time, to affect coral reefs ecosystems.  
 
 ##
