@@ -15,6 +15,8 @@ These are recent publications since starting at HIMB. Go to [People](/people) pa
 
 - Madin JS, Baird AH, Baskett ML, Connolly SR, Dornelas MA (2020) Partitioning colony size variation into growth and partial mortality. *Biology Letters*, [[link](https://doi.org/10.1098/rsbl.2019.0727)]
 
+- Torres-Pulliza D, Dornelas M, Pizarro O, Bewley M, Blowes SA, Boutros N, Brambilla V, Chase TJ, Frank G, Friedman A, Hoogenboom MO, Williams S, Zawada KJA, Madin JS (Preprint) A geometric basis for surface habitat complexity and biodiversity. *bioXriv* [[link](https://doi.org/10.1101/2020.02.03.929521)]
+
 ### 2019
 
 - Dornelas M, Madin EMP, Bunce M, DiBattista JD, Johnson M, Madin JS, Magurran AE, McGill BJ, Pettorelli N, Pizarro O, Williams SB, Winter M, Bates AE (2019) Towards a macroscope: Leveraging technology to transform the breadth, scale and resolution of macroecological data. *Global Ecology and Biogeography* 28:1937–1948. [[https://doi.org/10.1111/geb.13025](https://doi.org/10.1111/geb.13025)]
