@@ -20,6 +20,6 @@ github: 4reefs
 
 ### Research
 
-My research interests revolves around understanding the hierarchy of mechanisms in reef geometric complexity underlying coral reef biodiversity.  Specifically, I’m interested in quantifying and predicting the structural consequences of climate-associated disturbances and how these cascade along ecological lines, in space and time, to affect coral reef ecosystems.  
+My research interests revolves around understanding the hierarchy of mechanisms in reef geometric complexity underlying coral reef biodiversity.  Specifically, I’m interested in quantifying and predicting the structural consequences of climate-associated disturbances and how these cascade along ecological lines, in time and space, affecting the performance of the entire ecosystem.  
 
 ##
