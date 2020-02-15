@@ -9,7 +9,7 @@ github: 4reefs
 
 ### History
 
-- *2019-present: Visiting Graduate Researcher at J Madin Lab Hawai’i Inst. for Marine Biology, Hawai’i*	
+- *2019-present: Visiting Graduate Researcher at J Madin Lab, Hawai’i Inst. for Marine Biology, Hawai’i*	
 - *2016-present: PhD Candidate, Marine Quantitative Ecology, Dept of Biological Sciences, Macquarie University, Australia*
 - *2006–2016: Founder President, Sinoptica, USA, Costa Rica, Brazil*
 - *2002–2006: Research Assistant, Inst. for Marine Remote Sensing, University of South Florida, FL* 
