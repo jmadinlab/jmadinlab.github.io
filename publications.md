@@ -7,21 +7,23 @@ sidebar_link: true
 
 These are recent publications since starting at HIMB. Go to [People](/people) pages for more complete lists and Google Scholar links.
 
-### 2020
-
-- Bridge TCL, Luiz OJ, Kuo C-Y, Precoda K, Madin EMP, Madin JS, Baird AH (2020) Incongruence between life-history traits and conservation status in reef corals. *Coral Reefs*, [[link](https://doi.org/10.1007/s00338-019-01885-7)]
-
-- Gallagher RV, Falster DS, Maitner BS, Salguero-Gomez R, Vandvik V, Pearse WD, Schneider FD, Kattge J, Poelen J, Madin JS, Ankenbrand MJ, Penone C, Feng X, Adams VM, Alroy J, Andrew SC, Balk M, Bland LM, Boyle BL, Bravo-Avila CH, Brennan I, Carthey AJR, Catullo R, Cavazos BR, Chown S, Fadrique B, Gibb H, Halbritter AH, Hammock J, Hogan JA, Holewa H, Hope M, Iversen CM, Jochum M, Kearney M, Keller A, Mabee P, Manning P, McCormack L, Michaletz ST, Perez TM, Pineda-Munoz S, Ray CA, Rossetto M, Sauquet H, Sparrow B, Spasojevic MJ, Telford RJ, Tobias JA, Violle C, Walls R, Weiss KCB, Westoby M, Wright IJ, Enquist BJ (In press) The Open Traits Network: Using Open Science principles to accelerate trait-based science across the Tree of Life. *Nature Ecology & Evolution*, [[link](https://doi.org/10.32942/osf.io/kac45)]
-
-- Madin JS, Baird AH, Baskett ML, Connolly SR, Dornelas MA (2020) Partitioning colony size variation into growth and partial mortality. *Biology Letters*, [[link](https://doi.org/10.1098/rsbl.2019.0727)]
+### Preprints
 
 - Torres-Pulliza D, Dornelas M, Pizarro O, Bewley M, Blowes SA, Boutros N, Brambilla V, Chase TJ, Frank G, Friedman A, Hoogenboom MO, Williams S, Zawada KJA, Madin JS (Preprint) A geometric basis for surface habitat complexity and biodiversity. *bioXriv* [[link](https://doi.org/10.1101/2020.02.03.929521)]
 
+### 2020
+
+- Bridge TCL, Luiz OJ, Kuo C-Y, Precoda K, Madin EMP, Madin JS, Baird AH (2020) Incongruence between life-history traits and conservation status in reef corals. *Coral Reefs*. [[link](https://doi.org/10.1007/s00338-019-01885-7)]
+
+- Fontoura L, Zawada KJA, D’agata S, Álvarez-Noriega M, Baird AH, Boutros N, Dornelas M, Luiz OJ, Madin JS, Maina JM, Pizarro O, Torres-Pulliza D, Woods RM and Madin EMP (2020) Climate-driven shift in coral morphological structure predicts decline of juvenile reef fishes. *Global Change Biology*. [[link](https://doi.org/10.1111/gcb.14911)]
+
+- Gallagher RV, Falster DS, Maitner BS, Salguero-Gomez R, Vandvik V, Pearse WD, Schneider FD, Kattge J, Poelen J, Madin JS, Ankenbrand MJ, Penone C, Feng X, Adams VM, Alroy J, Andrew SC, Balk M, Bland LM, Boyle BL, Bravo-Avila CH, Brennan I, Carthey AJR, Catullo R, Cavazos BR, Chown S, Fadrique B, Gibb H, Halbritter AH, Hammock J, Hogan JA, Holewa H, Hope M, Iversen CM, Jochum M, Kearney M, Keller A, Mabee P, Manning P, McCormack L, Michaletz ST, Perez TM, Pineda-Munoz S, Ray CA, Rossetto M, Sauquet H, Sparrow B, Spasojevic MJ, Telford RJ, Tobias JA, Violle C, Walls R, Weiss KCB, Westoby M, Wright IJ, Enquist BJ (In press) The Open Traits Network: Using Open Science principles to accelerate trait-based science across the Tree of Life. *Nature Ecology & Evolution*. [[link](https://doi.org/10.32942/osf.io/kac45)]
+
+- Madin JS, Baird AH, Baskett ML, Connolly SR, Dornelas MA (2020) Partitioning colony size variation into growth and partial mortality. *Biology Letters*. [[link](https://doi.org/10.1098/rsbl.2019.0727)]
+
 ### 2019
 
-- Dornelas M, Madin EMP, Bunce M, DiBattista JD, Johnson M, Madin JS, Magurran AE, McGill BJ, Pettorelli N, Pizarro O, Williams SB, Winter M, Bates AE (2019) Towards a macroscope: Leveraging technology to transform the breadth, scale and resolution of macroecological data. *Global Ecology and Biogeography* 28:1937–1948. [[https://doi.org/10.1111/geb.13025](https://doi.org/10.1111/geb.13025)]
-
-- Fontoura L, Zawada KJA, D’agata S, Álvarez-Noriega M, Baird AH, Boutros N, Dornelas M, Luiz OJ, Madin JS, Maina JM, Pizarro O, Torres-Pulliza D, Woods RM and Madin EMP (2019) Climate-driven shift in coral morphological structure predicts decline of juvenile reef fishes. *Global Change Biology*. [[https://doi.org/10.1111/gcb.14911](https://doi.org/10.1111/gcb.14911)]
+- Dornelas M, Madin EMP, Bunce M, DiBattista JD, Johnson M, Madin JS, Magurran AE, McGill BJ, Pettorelli N, Pizarro O, Williams SB, Winter M, Bates AE (2019) Towards a macroscope: Leveraging technology to transform the breadth, scale and resolution of macroecological data. *Global Ecology and Biogeography* 28:1937–1948. [[link](https://doi.org/10.1111/geb.13025)]
 
 - Hughes TP, Kerry JT, Baird AH, Connolly SR, Chase TJ, Dietzel A, Hill T, Hoey AS, Hoogenboom MO, Jacobson M, Kerswell A, Madin JS, Mieog A, Paley AS, Pratchett MS, Torda G, Woods RM (2019) Global warming impairs stock–recruitment dynamics of corals. *Nature*, 568:387–390. [[link](https://www.nature.com/articles/s41586-019-1081-y)]
 
@@ -35,21 +37,21 @@ These are recent publications since starting at HIMB. Go to [People](/people) pa
 
 ### 2018
 
-- Madin JS, Baird AH, Bridge T, Connolly SR, Zawada K, Dornelas M (2018) Cumulative effects of cyclones and bleaching on coral cover and species richness at Lizard Island. *Marine Ecology Progress Series*, 604:263-268
+- Madin JS, Baird AH, Bridge T, Connolly SR, Zawada K, Dornelas M (2018) Cumulative effects of cyclones and bleaching on coral cover and species richness at Lizard Island. *Marine Ecology Progress Series*, 604:263-268.
 
-- Baird AH, Álvarez-Noriega M, Cumbo VR, Dornelas M, Connolly SR, Madin JS (2018) Effects of tropical storms on the demography of reef corals. *Marine Ecology Progress Series*, 606:29-38
+- Baird AH, Álvarez-Noriega M, Cumbo VR, Dornelas M, Connolly SR, Madin JS (2018) Effects of tropical storms on the demography of reef corals. *Marine Ecology Progress Series*, 606:29-38.
 
 - Dornelas M et al., including Madin JS (2018) BioTIME: A database of biodiversity time series for the Anthropocene. *Global Ecology and Biogeography*, 27:760-786.
 
-- McWilliam M, Hoogenboom MO, Baird AH, Kuo C-Y, Madin JS, Hughes TP (2018) Biogeographical disparity in the functional diversity and redundancy of corals. *Proceedings of the National Academy of Science USA*, 201716643. [link](https://doi.org/10.1073/pnas.1716643115)
+- McWilliam M, Hoogenboom MO, Baird AH, Kuo C-Y, Madin JS, Hughes TP (2018) Biogeographical disparity in the functional diversity and redundancy of corals. *Proceedings of the National Academy of Science USA*, 201716643. [[link](https://doi.org/10.1073/pnas.1716643115)]
 
 - Baird AH, Madin JS, Alvarez Noriega M, Fontoura L, Precoda K, Torres-Pulliza D, Woods R, Zawada K, Hughes TP (2018) A decline in bleaching suggests that depth can provide a refuge from global warming in most coral taxa. *Marine Ecology Progress Series*, 603:257-264.
 
 - Álvarez-Noriega M, Baird AH, Bridge T, Dornelas M, Fontoura L, Precoda K, Torres-Pulliza D, Woods R, Zawada K, Madin JS (2018) Contrasting patterns of changes in abundance following a bleaching event between juvenile and adult scleractinian corals. *Coral Reefs*, 37:527-532.
 
-- Álvarez-Noriega M, Baird AH, Dornelas M, Madin JS, Connolly SR (2018) Negligible effect of competition on coral colony growth. *Ecology*, 99:1347-1356. [link](https://doi.org/10.1002/ecy.2222)
+- Álvarez-Noriega M, Baird AH, Dornelas M, Madin JS, Connolly SR (2018) Negligible effect of competition on coral colony growth. *Ecology*, 99:1347-1356. [[link](https://doi.org/10.1002/ecy.2222)]
 
-- House JE, Brambilla V, Bidaut LM, Christie AP, Pizarro O, Madin JS, Dornelas M (2018) Moving to 3D: relationships between coral planar area, surface area and volume. *PeerJ*, 6:e4280 [link](https://peerj.com/manuscripts/13331)
+- House JE, Brambilla V, Bidaut LM, Christie AP, Pizarro O, Madin JS, Dornelas M (2018) Moving to 3D: relationships between coral planar area, surface area and volume. *PeerJ*, 6:e4280 [[link](https://peerj.com/manuscripts/13331)]
 
 - Precoda K, Baird AH, Madsen A, Mizerek T, Sommer B, Su SN, Madin JS (2018) How does a widespread reef coral maintain a population in an isolated environment? *Marine Ecology Progress Series*, 594:85-94.
 
