@@ -21,6 +21,8 @@ These are recent publications since starting at HIMB. Go to [People](/people) pa
 
 - Madin JS, Baird AH, Baskett ML, Connolly SR, Dornelas MA (2020) Partitioning colony size variation into growth and partial mortality. *Biology Letters*. [[link](https://doi.org/10.1098/rsbl.2019.0727)]
 
+- Precoda K, Hardt MJ, Baird AH, Madin JS (2020) Tissue biomass trades off with growth but not reproduction in corals. *Coral Reefs*.
+
 ### 2019
 
 - Dornelas M, Madin EMP, Bunce M, DiBattista JD, Johnson M, Madin JS, Magurran AE, McGill BJ, Pettorelli N, Pizarro O, Williams SB, Winter M, Bates AE (2019) Towards a macroscope: Leveraging technology to transform the breadth, scale and resolution of macroecological data. *Global Ecology and Biogeography* 28:1937–1948. [[link](https://doi.org/10.1111/geb.13025)]
