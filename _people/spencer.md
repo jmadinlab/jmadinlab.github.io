@@ -10,7 +10,7 @@ twitter: spencer5miller
 
 ### History
 
-- M.S. Marine Science (2018-current), Hawaiʻi Pacific University
+- M.S. Marine Science (2020), Hawaiʻi Pacific University
 - B.S. Biology (2018), Brigham Young University
 
 ### Research
