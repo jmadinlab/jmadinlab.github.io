@@ -18,6 +18,11 @@
     <span class="site-version">Currently v{{ site.version }}</span>
   {% endif %}
 
-  {% include sidebar-icon-links.html %}
+  {% if site.social %}
+    {% include sidebar-icon-links.html %}
+  {% endif %}
+
+  <br>
+  
   {% include copyright.html %}
 </div>
