@@ -3,8 +3,8 @@ layout: dataset
 id: coral-traits
 name: Surface geometry
 datasetDOI_URL: https://github.com/jmadinlab/surface_geometry/blob/master/output/master_20200709.csv
-contactName: Joshua Madin
-contactEmail: jmadin@hawaii.edu
+contactName: Damaris Torres-Pulliza
+contactEmail: dtorrespulliza@gmail.com
 license: CC0
 higherGeography: Lizard Island, Great Barrier Reef, Australia
 decimalLatitude: -14.699334
