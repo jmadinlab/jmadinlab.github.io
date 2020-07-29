@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Data and code
-permalink: /datasets/
+permalink: /data_code/
 sidebar_link: true
 sidebar_sort_order: 2
 ---
