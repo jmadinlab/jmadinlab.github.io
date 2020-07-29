@@ -48,4 +48,4 @@ Most datasets are small enough to be published with the GitHub project (above). 
 
 Please also add your data set to the lab's dataset register.
 
-[New dataset](https://github.com/jmadinlab/jmadinlab.github.io/issues/new?assignees=jmadin&labels=add+dataset&template=add-dataset.md&title=I%27d+like+to+add+a+dataset+to+the+lab)
+[[Add dataset](https://github.com/jmadinlab/jmadinlab.github.io/issues/new?assignees=jmadin&labels=add+dataset&template=add-dataset.md&title=I%27d+like+to+add+a+dataset+to+the+lab)]
