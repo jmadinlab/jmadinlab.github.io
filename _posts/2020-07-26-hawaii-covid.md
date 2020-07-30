@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "When will the curve flatten?"
-date:   2020-07-29
+date:   2020-07-26
 categories: community
 ---
 
