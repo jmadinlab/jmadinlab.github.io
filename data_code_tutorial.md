@@ -14,14 +14,14 @@ Below are some simple steps to get your lab projects up and running. The instruc
 - Open `RStudio`
 - Select `File` -> `New Project...`
 - Select `New Directory`, then `New Project`
-- Choose a sensible project name. Think of this as a forever choice (it can be changed, but it's a hassle). Use underscores or CamelCase instead of spaces (e.g., `surface_geometry` or `SurfaceGeometry`). Don't use generic names like `Chapter1`; remember that the whole lab is using this GitHub organization.  If in doubt, consult with another lab member who has experience creating projects.
+- Choose a sensible project name. Think of this as a forever choice (it can be changed, but it's a hassle). Use underscores or CamelCase instead of spaces (e.g., `surface_geometry` or `SurfaceGeometry`). Don't use generic names like `Chapter1`; remember that the whole lab is using the same GitHub organization.  If in doubt, consult with another lab member who has experience creating projects.
 - Click `Browse...` to choose a place for the project on your computer
 - Make sure the `Create a git repository` is selected; it should be by default
 - Click `Create Project`
 
 #### Starting a RStudio project from an existing project
 
-- Make sure the folder your project is in has a sensible name; this will become your project name. Think of this as a forever choice (it can be changed, but it's a hassle). Use underscores or CamelCase instead of spaces (e.g., `surface_geometry` or `SurfaceGeometry`). Don't use generic names like `Chapter1`; remember that the whole lab is using this GitHub organization.  If in doubt, consult with another lab member who has experience creating projects.
+- Make sure the folder your project is in has a sensible name; this will become your project name. Think of this as a forever choice (it can be changed, but it's a hassle). Use underscores or CamelCase instead of spaces (e.g., `surface_geometry` or `SurfaceGeometry`). Don't use generic names like `Chapter1`; remember that the whole lab is using the same GitHub organization. If in doubt, consult with another lab member who has experience creating projects.
 - Open `RStudio`
 - Select `File` -> `New Project...`
 - Select `Existing Directory`, then `Browse...` to find your existing project folder.
