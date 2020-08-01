@@ -10,19 +10,28 @@
        href="{{ site.hydeout.repo }}/archive/v{{ site.hydeout.version }}.zip">
       {% include svg/download.svg %}
     </a>
+
+    <a id="twitter-link"
+       class="icon" title="Twitter" aria-label="Twitter"
+       href="https://twitter.com/{{ site.hydeout.twitter }}">
+      {% include svg/download.svg %}
+    </a>
+
+    <a id="subscribe-link"
+       class="icon" title="Subscribe" aria-label="Subscribe"
+       href="{{ site.feed.path | default: 'feed.xml' | relative_url }}">
+      {% include svg/feed.svg %}
+    </a>
+
   {% endif %}
 
-  <a id="twitter-link"
-     class="icon" title="Twitter" aria-label="Twitter"
-     href="https://twitter.com/{{ site.hydeout.twitter }}">
-    {% include svg/download.svg %}
+  <a id="github-link"
+     class="icon" title="Github Project" aria-label="Github Project"
+     href="https://github.com/{{ site.github_username }}">
+    {% include svg/github.svg %}
   </a>
 
-  <a id="subscribe-link"
-     class="icon" title="Subscribe" aria-label="Subscribe"
-     href="{{ site.feed.path | default: 'feed.xml' | relative_url }}">
-    {% include svg/feed.svg %}
-  </a>
+
 
   {% comment %}
     Check if we have tag or search pages page active before linking to it.
