@@ -7,7 +7,7 @@ github: VivBramb
 
 ### History
 
-- Ph.D. Student (2017-present) University of St. Andrew (Principle: Dr. Maria Dornelas) and University of Hawaii at Manoa and the Hawaii Institute of Marine Biology (Co-principle: Dr. Joshua Madin)
+- Ph.D. Student (2017-present) University of St. Andrew (Dr. Maria Dornelas) and University of Hawaii at Manoa and the Hawaii Institute of Marine Biology (Dr. Joshua Madin)
 - Ian Potter Doctoral Fellow at Lizard Island (2018-present)
 
 ### Research
