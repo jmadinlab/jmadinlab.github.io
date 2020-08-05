@@ -19,3 +19,7 @@ There is occasionally funding to support a postdoc, which will be advertised bro
 ### Interns
 
 Interns will be considered on a rolling basis when space and projects permit. Please consider what it is that you would like to get out of your experience and express this when you contact us (we might not be able to respond to generic requests).
+
+### Visitors
+
+Moku o Lo’e (Coconut Island) is a fantastic place for a sabbatical or to conduct coral reef research.  If you'd like to be a visiting researcher associated with the lab, please contact Josh directly.  
