@@ -66,18 +66,18 @@ Below are some simple steps to get your lab projects up and running. The instruc
 
 #### Adding project to GitHub
 
-- Go to [jmadinlab](https://github.com/orgs/jmadinlab)
+- For projects done while in the lab, go to [jmadinlab](https://github.com/orgs/jmadinlab). If you want to set the project up outside the lab, go to your own GitHub page.
 - Click the green `New` (repository) button
 - Use the same project name as for RStudio (e.g., `surface_geometry` or `SurfaceGeometry`). Leave the project as `Private`. Click the green `Create repository` button. (Don't initialize with a README!)
 - Copy the two lines under `...or push an existing repository from the command line`
 - Go back to RStudio and click the cog/settings symbol in the `Git` panel, choose `Shell...`
-- Paste the two lines from the GitHub webpage and press enter. Note that you'll get an error if you haven't yet committed the project (above section).
+- Paste the two lines from the GitHub webpage and press enter. Note that you'll get an error if you haven't yet committed the project at least once (above section).
 - That's it. You'll noticed that the push and pull arrows in the Git panel in RStudio will now be highlighted.
-- Finally, add project collaborators to your GitHub project by going to `Settings`, then `Manage Access` and click the green `Invite teams or people` button. Enter their GitHub username.
+- Finally, add project collaborators to your GitHub project by going to `Settings`, then `Manage Access` and click the green `Invite teams or people` button. Enter their GitHub usernames.
 - When your research is published, please make the GitHub repository public (under `Settings` -> `Manage Access`) and make sure the link to a `release` of your repo is published with your paper. To make a `release`, click the `tags` button at the GitHub project page and `create a new release`. Use something like `v1.0.0` for the tag.
 
 ### Datasets
 
-Most datasets are small enough to be published with the GitHub project (above). Some journals require that data are submitted to online data repositories so they have a `DOI`, in which case follow the journal's instructions.
+Most datasets are small enough to be published with the GitHub project (above). Some journals require that data are submitted to online data repositories so they have a `DOI`, in which case follow the journal's instructions. [Zenodo](https://zenodo.org) and [FigShare](https://figshare.com) are easy-to-use, free options.
 
-Please also add your data set to the lab's dataset register: [[Add dataset](https://github.com/jmadinlab/jmadinlab.github.io/issues/new?assignees=jmadin&labels=add+dataset&template=add-dataset.md&title=I%27d+like+to+add+a+dataset+to+the+lab)]
+Please also add your data set to the lab's [dataset registry](/data_code/): [[Add dataset](https://github.com/jmadinlab/jmadinlab.github.io/issues/new?assignees=jmadin&labels=add+dataset&template=add-dataset.md&title=I%27d+like+to+add+a+dataset+to+the+lab)]

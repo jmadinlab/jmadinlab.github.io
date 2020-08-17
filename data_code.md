@@ -12,7 +12,7 @@ Lab project data and code will appear at our GitHub organization: [jmadinlab](ht
 
 [[Tutorial](/data_code_tutorial) for lab members]
 
-### Datasets
+### Dataset Registry
 
 Datasets are made public following first publication. Datasets are stored in a number of ways, including online databases, FigShare, GitHub and our lab server. Below is a growing list of datasets. This list is currently incomplete and being worked on to make all lab products visible in one location.
 
