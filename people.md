@@ -3,11 +3,14 @@ layout: page
 title: People
 permalink: /people/
 sidebar_link: true
+sidebar_sort_order: 1
 ---
 
 {% for person in site.people %}
   - [{{ person.name }}]({{ person.id }})
 {% endfor %}
+
+[[Add member](https://github.com/jmadinlab/jmadinlab.github.io/issues/new?assignees=jmadin&labels=add+person&template=add-person.md&title=I%27d+like+to+add+myself+to+the+lab)]
 
 ### Past members
 

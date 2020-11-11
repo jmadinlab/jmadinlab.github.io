@@ -3,13 +3,15 @@ layout: page
 title: Publications
 permalink: /publications/
 sidebar_link: true
+sidebar_sort_order: 3
 ---
 
 These are recent publications since starting at HIMB. Go to [People](/people) pages for more complete lists and Google Scholar links.
 
 ### Preprints
 
-- Torres-Pulliza D, Dornelas M, Pizarro O, Bewley M, Blowes SA, Boutros N, Brambilla V, Chase TJ, Frank G, Friedman A, Hoogenboom MO, Williams S, Zawada KJA, Madin JS (Preprint) A geometric basis for surface habitat complexity and biodiversity. *bioXriv* [[link](https://doi.org/10.1101/2020.02.03.929521)]
+- Álvarez-Noriega M, Madin JS, Baird AH, Dornelas M, Connolly
+SR (preprint) Disturbance-induced changes in size-structure promote coral biodiversity. *bioRxiv* [[link](https://doi.org/10.1101/2020.05.21.094797)]
 
 ### 2020
 
@@ -19,9 +21,18 @@ These are recent publications since starting at HIMB. Go to [People](/people) pa
 
 - Gallagher RV, Falster DS, Maitner BS, Salguero-Gomez R, Vandvik V, Pearse WD, Schneider FD, Kattge J, Poelen J, Madin JS, Ankenbrand MJ, Penone C, Feng X, Adams VM, Alroy J, Andrew SC, Balk M, Bland LM, Boyle BL, Bravo-Avila CH, Brennan I, Carthey AJR, Catullo R, Cavazos BR, Chown S, Fadrique B, Gibb H, Halbritter AH, Hammock J, Hogan JA, Holewa H, Hope M, Iversen CM, Jochum M, Kearney M, Keller A, Mabee P, Manning P, McCormack L, Michaletz ST, Perez TM, Pineda-Munoz S, Ray CA, Rossetto M, Sauquet H, Sparrow B, Spasojevic MJ, Telford RJ, Tobias JA, Violle C, Walls R, Weiss KCB, Westoby M, Wright IJ, Enquist BJ (In press) The Open Traits Network: Using Open Science principles to accelerate trait-based science across the Tree of Life. *Nature Ecology & Evolution*. [[link](https://doi.org/10.1038/s41559-020-1109-6)]
 
+- Madin EMP, Madin JS, Harmer AMT, Barrett NS, Booth DJ, Caley MJ, Cheal AJ, Edgar GJ, Emslie MJ, Gaines SD, Sweatman HPA (2020) Latitude and protection affect decadal trends in reef trophic structure over a continental scale. *Ecol. Evol.*, 00:1– 13. [[link](https://doi.org/10.1002/ece3.6347)]
+
 - Madin JS, Baird AH, Baskett ML, Connolly SR, Dornelas MA (2020) Partitioning colony size variation into growth and partial mortality. *Biology Letters*. [[link](https://doi.org/10.1098/rsbl.2019.0727)]
 
-- Precoda K, Hardt MJ, Baird AH, Madin JS (2020) Tissue biomass trades off with growth but not reproduction in corals. *Coral Reefs*.
+- Madin JS, Nielsen DA, Brbic M, Corkrey R, Danko D, Edwards K, Engqvist MKM, Fierer N, Geoghegan JL, Gillings M, Kyrpides NC, Litchman E, Mason CE, Moore L, Nielsen SL, Paulsen IT, Price ND, Reddy TBK, Richards MA, Rocha EPC, Schmidt TM, Shaaban H, Shukla M, Supek F, Tetu SG, Vieira-Silva S, Wattam AR, Westfall DA, Westoby M (2020) A synthesis of bacterial and archaeal phenotypic trait data. *Scientific Data*, 7:170. [[link](https://doi.org/10.1038/s41597-020-0497-4)]
+
+- Precoda K, Hardt MJ, Baird AH, Madin JS (2020) Tissue biomass trades off with growth but not reproduction in corals. *Coral Reefs*. [[link](https://doi.org/10.1007/s00338-020-01925-7)]
+
+- Scavo Lord K, Lesneski KC, Bengtsson ZA, Kuhn KM, Madin JS, Cheung B, Ewa R, Taylor JF, Burmester EM, Morey J, Kaufman L, Finnerty JR (2020) Multi-year viability of a reef coral population living on mangrove roots suggests an important role for mangroves in the broader habitat mosaic of corals. *Frontiers in Marine Science*, 7:377. [[link](https://doi.org/10.3389/fmars.2020.00377)]
+
+- Torres-Pulliza D, Dornelas M, Pizarro O, Bewley M, Blowes SA, Boutros N, Brambilla V, Chase TJ, Frank G, Friedman A, Hoogenboom MO, Williams S, Zawada KJA, Madin JS (accepted) A geometric basis for surface habitat complexity and biodiversity. *Nature Ecol. Evol.*, [[bioXriv](https://doi.org/10.1101/2020.02.03.929521)]
+
 
 ### 2019
 
