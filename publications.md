@@ -1,10 +1,12 @@
 ---
 layout: page
-title: Publications
+title: Recent Publications
 permalink: /publications/
 sidebar_link: true
 sidebar_sort_order: 3
 ---
+
+<!-- <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script> -->
 
 These are recent publications since starting at HIMB. Go to [People](/people) pages for more complete lists and Google Scholar links.
 
@@ -13,15 +15,25 @@ These are recent publications since starting at HIMB. Go to [People](/people) pa
 - Álvarez-Noriega M, Madin JS, Baird AH, Dornelas M, Connolly
 SR (preprint) Disturbance-induced changes in size-structure promote coral biodiversity. *bioRxiv* [[link](https://doi.org/10.1101/2020.05.21.094797)]
 
+2021
+
+- Baird AH, Guest J, Edwards A, Bauman A, Bouwmeester J, Mera H, Abrego D, Alvarez-Noriega M, Babcock R, Barbosa M, Bonito V, Burt J, Cabaitan P, Chang C-F, Chavanich S, Chen C, Chen C-J, Chen W-J, Chung F-C, Connolly S, Cumbo V, Dornelas M, Doropoulos C, Eyal G, Eyal-Shaham L, Fadli N, Figueiredo J, Flot J-F, Gan S-H, Gomez E, Graham E, Grinblat M, Gutiérrez-Isaza N, Harii S, Harrison P, Hatta M, Ho NAJ, Hoarau G, Hoogenboom M, Howells E, Iguchi A, Isomura N, Jamodiong E, Jandang S, Keyse J, Kitanobo S, Kongjandtre N, Kuo C-Y, Ligson C, Lin C-H, Low J, Loya Y, Maboloc E, Madin JS, Mezaki T, Min C, Morita M, Moya A, Neo S-H, Nitschke M, Nojima S, Nozawa Y, Piromvaragorn S, Plathong S, Puill-Stephan E, Quigley K, Ramírez-Portilla C, Ricardo G, Sakai K, Sampayo E, Shlesinger T, Sikim L, Simpson C, Sims C, Sinniger F, Spiji D, Tabalanza T, Tan CH, Terraneo TI, Torda G, True J, Tun K, Vicentuan K, Viyakarn V, Waheed Z, Ward S, Willis B, Woods R, Woolsey E, Yamamoto H, Yusuf S (in press) An Indo-Pacific coral spawning database. *Scientific Data*. [[link]()]
+
+- Nielsen DA, Fierer N, Geoghegan JL, Gillings MR, Gumerov V, Madin JS, Moore L, Paulsen IT, Reddy TBK, Tetu SG, Westoby M (in press) Aerobic bacteria and archaea tend to have larger and more versatile genomes. *Oikos*. [[link]()]
+
+- Westoby M, Nielsen DA, Gillings MR, Litchman E, Madin JS, Paulsen IT, Tetu SG (accepted) Cell size, genome size and maximum growth rate are near-independent dimensions of ecological variation across bacteria and archaea. *Ecology & Evolution*. [[link]()]
+
 ### 2020
 
 - Bridge TCL, Luiz OJ, Kuo C-Y, Precoda K, Madin EMP, Madin JS, Baird AH (2020) Incongruence between life-history traits and conservation status in reef corals. *Coral Reefs*. [[link](https://doi.org/10.1007/s00338-019-01885-7)]
 
-- Fontoura L, Zawada KJA, D’agata S, Álvarez-Noriega M, Baird AH, Boutros N, Dornelas M, Luiz OJ, Madin JS, Maina JM, Pizarro O, Torres-Pulliza D, Woods RM and Madin EMP (2020) Climate-driven shift in coral morphological structure predicts decline of juvenile reef fishes. *Global Change Biology*. [[link](https://doi.org/10.1111/gcb.14911)]
+- Dornelas MA, JS Madin (2020) Novel communities are a risky business. *Science* 370:164-165. [[link](https://doi.org/10.1126/science.abe4727)]
 
-- Gallagher RV, Falster DS, Maitner BS, Salguero-Gomez R, Vandvik V, Pearse WD, Schneider FD, Kattge J, Poelen J, Madin JS, Ankenbrand MJ, Penone C, Feng X, Adams VM, Alroy J, Andrew SC, Balk M, Bland LM, Boyle BL, Bravo-Avila CH, Brennan I, Carthey AJR, Catullo R, Cavazos BR, Chown S, Fadrique B, Gibb H, Halbritter AH, Hammock J, Hogan JA, Holewa H, Hope M, Iversen CM, Jochum M, Kearney M, Keller A, Mabee P, Manning P, McCormack L, Michaletz ST, Perez TM, Pineda-Munoz S, Ray CA, Rossetto M, Sauquet H, Sparrow B, Spasojevic MJ, Telford RJ, Tobias JA, Violle C, Walls R, Weiss KCB, Westoby M, Wright IJ, Enquist BJ (In press) The Open Traits Network: Using Open Science principles to accelerate trait-based science across the Tree of Life. *Nature Ecology & Evolution*. [[link](https://doi.org/10.1038/s41559-020-1109-6)]
+- Fontoura L, Zawada KJA, D’agata S, Álvarez-Noriega M, Baird AH, Boutros N, Dornelas M, Luiz OJ, Madin JS, Maina JM, Pizarro O, Torres-Pulliza D, Woods RM and Madin EMP (2019) Climate-driven shift in coral morphological structure predicts decline of juvenile reef fishes. *Global Change Biology*. [[link](https://doi.org/10.1111/gcb.14911)]
 
-- Madin EMP, Madin JS, Harmer AMT, Barrett NS, Booth DJ, Caley MJ, Cheal AJ, Edgar GJ, Emslie MJ, Gaines SD, Sweatman HPA (2020) Latitude and protection affect decadal trends in reef trophic structure over a continental scale. *Ecol. Evol.*, 00:1– 13. [[link](https://doi.org/10.1002/ece3.6347)]
+- Gallagher RV, Falster DS, Maitner BS, Salguero-Gomez R, Vandvik V, Pearse WD, Schneider FD, Kattge J, Poelen JH, Madin JS, Ankenbrand MJ, Penone C, Feng X, Adams VM, Alroy J, Andrew SC, Balk M, Bland LM, Boyle BL, Bravo-Avila CH, Brennan I, Carthey AJR, Catullo R, Cavazos BR, Chown S, Fadrique B, Gibb H, Halbritter AH, Hammock J, Hogan JA, Holewa H, Hope M, Iversen CM, Jochum M, Kearney M, Keller A, Mabee P Manning P, McCormack L, Michaletz ST, Park DS, Perez TM, Pineda-Munoz S, Ray CA, Rossetto M, Sauquet H, Sparrow B, Spasojevic MJ, Telford RJ, Tobias JA, Violle C, Walls R, Weiss KCB, Westoby M, Wright IJ, Enquist BJ (2020) The Open Traits Network: Using Open Science principles to accelerate trait-based science across the Tree of Life. *Nature Ecology & Evolution*. [[link](https://doi.org/10.1038/s41559-020-1109-6)]
+
+- Madin EMP, Madin JS, Harmer AMT, Barrett NS, Booth DJ, Caley MJ, Cheal AJ, Edgar GJ, Emslie MJ, Gaines SD, Sweatman HPA (2020) Latitude and protection affect decadal trends in reef trophic structure over a continental scale. *Ecology & Evolution* 10:6954-6966. [[link](https://doi.org/10.1002/ece3.6347)]
 
 - Madin JS, Baird AH, Baskett ML, Connolly SR, Dornelas MA (2020) Partitioning colony size variation into growth and partial mortality. *Biology Letters*. [[link](https://doi.org/10.1098/rsbl.2019.0727)]
 
@@ -31,8 +43,7 @@ SR (preprint) Disturbance-induced changes in size-structure promote coral biodiv
 
 - Scavo Lord K, Lesneski KC, Bengtsson ZA, Kuhn KM, Madin JS, Cheung B, Ewa R, Taylor JF, Burmester EM, Morey J, Kaufman L, Finnerty JR (2020) Multi-year viability of a reef coral population living on mangrove roots suggests an important role for mangroves in the broader habitat mosaic of corals. *Frontiers in Marine Science*, 7:377. [[link](https://doi.org/10.3389/fmars.2020.00377)]
 
-- Torres-Pulliza D, Dornelas M, Pizarro O, Bewley M, Blowes SA, Boutros N, Brambilla V, Chase TJ, Frank G, Friedman A, Hoogenboom MO, Williams S, Zawada KJA, Madin JS (accepted) A geometric basis for surface habitat complexity and biodiversity. *Nature Ecol. Evol.*, [[bioXriv](https://doi.org/10.1101/2020.02.03.929521)]
-
+- Torres-Pulliza D, Dornelas M, Pizarro O, Bewley M, Blowes SA, Boutros N, Brambilla V, Chase TJ, Frank G, Friedman A, Hoogenboom MO, Williams S, Zawada KJA, Madin JS (2020) A geometric basis for surface habitat complexity and biodiversity. *Nature Ecology & Evolution* 4:1495-1501. [[link](https://doi.org/10.1038/s41559-020-1281-8)]
 
 ### 2019
 
@@ -69,15 +80,3 @@ SR (preprint) Disturbance-induced changes in size-structure promote coral biodiv
 - Precoda K, Baird AH, Madsen A, Mizerek T, Sommer B, Su SN, Madin JS (2018) How does a widespread reef coral maintain a population in an isolated environment? *Marine Ecology Progress Series*, 594:85-94.
 
 - Mizerek TL, Baird AH, Madin JS (2018) Species traits as indicators of coral bleaching. *Coral Reefs*, 37:791–800.
-
-### 2017
-
-- Bryson M, Ferrari R, Figueira W, Pizarro O, Madin JS, Williams S, Byrne M (2017) Characterization of measurement errors using structure‐from‐motion and photogrammetry to measure marine habitat structural complexity. *Ecology and Evolution*, doi: 10.1002/ece3.3127.
-
-- Dornelas M, Madin JS, Baird A, Connolly S (2017) Allometric growth in reef-building corals. *Proceeding of the Royal Society London B*, 284:20170053.
-
-- Hata T, Baird AH, Cumbo VR, Denny M, Figueiredo J, Harii S, Thomas CJ, Madin JS (2017) Coral larvae are poor swimmers and require complex reef structure to settle. *Scientific Reports*, 7:2249.
-
-- Pizarro O, Friedman A, Bryson M, Williams S, Madin JS (2017) Reef Records: simple, fast and repeatable surveys for underwater visual 3D benthic mapping and monitoring. *Ecology and Evolution*, 7:1770–1782.
-
-- Precoda K, Allen A, Grant L, Madin JS (2017) Using traits to assess nontransitive interactions among coral species. *American Naturalist* In press.
