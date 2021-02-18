@@ -5,7 +5,7 @@ date:   2021-02-17
 categories: news
 ---
 
-<img src="/assets/posts/coral_geometry.png" width="500"/>
+<img src="/assets/posts/coral_geometry.png" width="400"/>
 
 We are looking to recruiting a 3-year postdoc to develop research focused on quantifying the relationships between coral built structures and ecosystem functions in new and scalable ways using emerging technologies. The research will be in collaboration with Josh Madin (Hawaii), Maria Dornelas (St. Andrews) and Elizabeth Madin (Hawaii). Duties of the postdoc will include:
 - Use photogrammetry and laser scanning to better understand the geometry of corals and reef in the field.
