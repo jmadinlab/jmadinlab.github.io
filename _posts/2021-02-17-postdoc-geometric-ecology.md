@@ -21,7 +21,7 @@ We are looking to recruiting a 3-year postdoc to develop research focused on qua
 - Process,  manipulate, and analyze large datasets.
 - Coordinate and lead marine field research.
 
-There is an official posting on [this website](https://www.hirenethawaii.com/vosnet/Default.aspx), where you enter the keyword 221076. Please note that the website only shows a minimum salary for the pay range, and that the salary would be higher and consistent with other postdocs.
+There is an official posting on [this website](https://www.hirenethawaii.com/vosnet/Default.aspx), where you enter the keyword 221076. Please note that the website only shows a minimum salary for the pay range, and that the salary would be higher and consistent with other postdocs at HIMB.
 
 To apply, please upload the following to the official website above, or send in an email to [rcuh_employment@rcuh.com](mailto:rcuh_employment@rcuh.com):
 
