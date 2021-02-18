@@ -23,12 +23,13 @@ We are looking to recruiting a 3-year postdoc to develop research focused on qua
 
 There is an official posting on [this website](https://www.hirenethawaii.com/vosnet/Default.aspx), where you enter the keyword *221076*. Please note that the website only shows a minimum salary for the pay range, and that the salary would be higher and consistent with other postdocs at HIMB.
 
-To apply, please following the instructions at the official website. Application materials are:
+To apply, please follow the instructions at the official website. Application materials are:
 
 1. A cover Letter explaining your motivation for applying for this position, how your prior research experience qualifies you for the position, how you satisfy the required and desirable qualifications, and your career goals.
 2. Your CV.
 3. The names and contact details for three references.
 4. A short 1-2 page research proposal describing independent research you would like to undertake.
+5. They ask for transcripts, but you can consider these optional, perhaps if you want to demonstrate mathematical or statistical skills. Proof of PhD will eventually be required for the successful applicant.
 
 **CLOSING DATE: March 24, 2021**
 
