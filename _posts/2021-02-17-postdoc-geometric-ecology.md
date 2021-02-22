@@ -21,7 +21,7 @@ We are recruiting a 3-year postdoc to develop research focused on quantifying th
 - Processing, manipulating, and analyzing large datasets.
 - Coordinating and leading marine field research.
 
-There is an official posting on [this website](https://www.hirenethawaii.com/vosnet/Default.aspx), where you enter the keyword *221076*. Please note that the website only shows a minimum salary for the pay range, and that the salary would be higher and consistent with other postdocs at HIMB.
+There is an official posting on [this website](https://hcmweb.rcuh.com/psc/hcmprd_exapp/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_APP_SCHJOB.GBL?FOCUS=Applicant), where you search on the job number *221076*. Please note that the website only shows a minimum salary for the pay range, and that the salary would be higher and consistent with other postdocs at HIMB.
 
 To apply, please follow the instructions at the official website. Application materials are:
 
