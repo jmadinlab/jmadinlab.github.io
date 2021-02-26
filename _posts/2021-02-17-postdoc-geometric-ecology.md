@@ -31,8 +31,8 @@ To apply, please follow the instructions at the official website. Application ma
 4. A short 1-2 page research proposal describing independent research you would like to undertake.
 5. They ask for transcripts, but you can consider these optional, perhaps if you want to demonstrate mathematical or statistical skills. Proof of PhD will eventually be required for the successful applicant.
 
-Ideally the postdoc to start for the summer field season (June/July 2021), but we could potentially wait until September/October for the right candidate.
+**APPLICATION CLOSING DATE: March 24, 2021**
 
-**CLOSING DATE: March 24, 2021**
+> Ideally the postdoc to start for the summer field season (June/July 2021), but we could potentially wait until September/October for the right candidate.
 
 Any questions to [Josh Madin](mailto:jmadin@hawaii.edu).
