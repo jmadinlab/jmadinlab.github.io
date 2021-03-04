@@ -15,7 +15,7 @@ These are recent publications since starting at HIMB. Go to [People](/people) pa
 - Álvarez-Noriega M, Madin JS, Baird AH, Dornelas M, Connolly
 SR (preprint) Disturbance-induced changes in size-structure promote coral biodiversity. *bioRxiv* [[link](https://doi.org/10.1101/2020.05.21.094797)]
 
-2021
+### 2021
 
 - Baird AH, Guest J, Edwards A, Bauman A, Bouwmeester J, Mera H, Abrego D, Alvarez-Noriega M, Babcock R, Barbosa M, Bonito V, Burt J, Cabaitan P, Chang C-F, Chavanich S, Chen C, Chen C-J, Chen W-J, Chung F-C, Connolly S, Cumbo V, Dornelas M, Doropoulos C, Eyal G, Eyal-Shaham L, Fadli N, Figueiredo J, Flot J-F, Gan S-H, Gomez E, Graham E, Grinblat M, Gutiérrez-Isaza N, Harii S, Harrison P, Hatta M, Ho NAJ, Hoarau G, Hoogenboom M, Howells E, Iguchi A, Isomura N, Jamodiong E, Jandang S, Keyse J, Kitanobo S, Kongjandtre N, Kuo C-Y, Ligson C, Lin C-H, Low J, Loya Y, Maboloc E, Madin JS, Mezaki T, Min C, Morita M, Moya A, Neo S-H, Nitschke M, Nojima S, Nozawa Y, Piromvaragorn S, Plathong S, Puill-Stephan E, Quigley K, Ramírez-Portilla C, Ricardo G, Sakai K, Sampayo E, Shlesinger T, Sikim L, Simpson C, Sims C, Sinniger F, Spiji D, Tabalanza T, Tan CH, Terraneo TI, Torda G, True J, Tun K, Vicentuan K, Viyakarn V, Waheed Z, Ward S, Willis B, Woods R, Woolsey E, Yamamoto H, Yusuf S (2021) An Indo-Pacific coral spawning database. *Scientific Data*, 8:35. [[link](https://doi.org/10.1038/s41597-020-00793-8)]
 
@@ -24,6 +24,8 @@ SR (preprint) Disturbance-induced changes in size-structure promote coral biodiv
 - Nielsen DA, Fierer N, Geoghegan JL, Gillings MR, Gumerov V, Madin JS, Moore L, Paulsen IT, Reddy TBK, Tetu SG, Westoby M (2021) Aerobic bacteria and archaea tend to have larger and more versatile genomes. *Oikos*. [[link](https://doi.org/10.1111/oik.07912)]
 
 - Westoby M, Nielsen DA, Gillings MR, Litchman E, Madin JS, Paulsen IT, Tetu SG (accepted) Cell size, genome size and maximum growth rate are near-independent dimensions of ecological variation across bacteria and archaea. *Ecology & Evolution*. [[link]()]
+
+- Westoby M, Gillings MR, Madin JS, Nielsen DA, Paulsen IT, Tetu SG (accepted) Trait-dimensions in bacteria and archaea compared to vascular plants. *Ecology Letters*. [[link]()]
 
 ### 2020
 
