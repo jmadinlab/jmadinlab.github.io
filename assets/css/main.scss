@@ -5,11 +5,27 @@
 $sidebar-bg-color: #5d6037;
 $link-color: #888;
 $sidebar-sticky: false;
-@import "hydeout";
 
 .sideDiv {
     display: inline-block;
-    vertical-align: top;    
+    vertical-align: top;
     padding: 2px;
     margin: 2px;
 }
+
+#sidebar {
+  flex: 10 10;
+  // padding: $section-spacing;
+  // overflow-y: scroll;
+
+  .site-title {
+    font-family: 'Abril Fatface', serif;
+    // font-size: $large-font-size;
+    font-weight: normal;
+    // margin-bottom: $heading-spacing;
+    margin-top: 0;
+  }
+
+  .site-title .back-arrow { margin-right: 0.5rem; }
+}
+@import "hydeout";
