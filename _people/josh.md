@@ -4,7 +4,6 @@ name: Dr Joshua Madin
 id: josh
 email: jmadin@hawaii.edu
 scholar: ho3LuBUAAAAJ
-twitter: jmadin
 github: jmadin
 ---
 
