@@ -13,8 +13,7 @@ I have a BA in Psychology, an MA in Special Education, and am currently working 
 ### Research
 
 I’m currently assisting PhD student, Shreya Yadav, with her research in exploring spatial patterns in coral bleaching, recovery, and mortality using photogrammetry in Kāne‘ohe Bay. In the future I’d love to work in research of elasmobranchs in some capacity.
-I am interested in just about anything that relates to the ocean, but if I had to pick one particular oceanic interest, I’d say cephalopods.  I’m also very passionate about coral reef conservation.
 
 ### Fun Fact
 
-In high school, I dove on a club team with a springboard diver who competed in the 2020 Tokyo Olympics this past summer.
+I’m very active and love to surf, dive, dirt bike, mountain bike, and wakeboard.
