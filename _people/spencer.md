@@ -1,7 +1,7 @@
 ---
 layout: people
 name: Spencer Miller
-email: smiller11@my.hpu.edu
+email: millersp@hawaii.edu
 github: 3DMiller
 website: millerspencer.weebly.com
 sketchfab: S_Miller
@@ -15,4 +15,4 @@ twitter: spencer5miller
 
 ### Research
 
-My interests are focused on understanding the 3-dimensional structure of coral reef habitats. Currently, I am applying structure-from-motion photogrammetry and GIS to learn about the spatial and temporal changes in coral reef structural complexity.
+Anything 3D related, but mostly focused on understanding the 3-dimensional structure of coral reef habitats. Currently, I apply structure-from-motion photogrammetry and GIS to learn about the spatial and temporal changes in coral reef structural complexity. I also assist with other lab projects focused on understanding structural complexity in reef habitats.
