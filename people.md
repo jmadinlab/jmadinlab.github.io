@@ -14,7 +14,7 @@ sidebar_sort_order: 1
 
 ### Past members
 
-- Peter David (Masters)
+- Peter David(Masters) 
 - Marcela Diaz (Research Assistant)
 - Marguerite Gosse (Research Assistant)
 - Liesl Grant (Undergraduate Project)
