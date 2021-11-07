@@ -28,3 +28,7 @@ My main interests are quantitative ecology, biophysics and informatics. My big a
 - Applying Innovative Technologies in Marine Science [[details](http://www.himb.hawaii.edu/events/summer-program-2019-applying-innovative-technologies-in-marine-science/)] [[post](/teaching/2017/11/06/summer-course.html)]
 - R User Group [details]
 - HIMB Graduate Seminar [details]
+
+### Teaching
+
+- I used to have purple dreadlocks.
