@@ -12,8 +12,15 @@ These are recent publications since starting at HIMB. Go to [People](/people) pa
 
 ### Preprints
 
-- Álvarez-Noriega M, Madin JS, Baird AH, Dornelas M, Connolly
-SR (preprint) Disturbance-induced changes in size-structure promote coral biodiversity. *bioRxiv* [[link](https://doi.org/10.1101/2020.05.21.094797)]
+- Álvarez-Noriega M, Madin JS, Baird AH, Dornelas M, Connolly SR (preprint) Disturbance-induced changes in size-structure promote coral biodiversity. *bioRxiv* [[link](https://doi.org/10.1101/2020.05.21.094797)]
+
+- Madin JS, McWilliam M, Quigley K, Bay L, Bellwood D, Doropoulos C, Fernandes L, Harrison P, Hoey A, Mumby P, Richards Z, Riginos C, Suggett D, van Oppen M (preprint) Selecting species for restoration in foundational assemblages. *bioRxiv* [[link](https://doi.org/10.1101/2021.11.03.467181)]
+
+- Chow CFY, Bolton C, Boutros N, Brambilla V, Fontoura L, Hoey AS, Madin JS, Pizarro O, Torres-Pulliza D, Woods RM, Zawada KJA, Barbosa M, Dornelas M (preprint) Coral settlement and recruitment responses to reef fish foraging and trait diversity. *bioRxiv* [[link](https://doi.org/10.1101/2021.10.19.464984)]
+
+- Brambilla V, Baird AH, Barbosa M, Dehnert I, Madin JS, Peddie C, Dornelas M (preprint) Coral niche construction: coral recruitment increases along a coral-built structural complexity gradient. *bioRxiv* [[link](https://doi.org/10.1101/2021.10.14.464352)]
+
+- Caruso C, Rocha de Souza M, Ruiz-Jones L, Conetta D, Hancock J, Hobbs C, Hobbs C, Kahkejian V, Kitchenn R, Marin C, Monismith S, Madin JS, Gates R, Drury C (preprint) Genetic patterns in Montipora capitata across an environmental mosaic in Kāne’ohe Bay. *bioRxiv* [[link](https://doi.org/10.1101/2021.10.07.463582)]
 
 ### 2021
 
