@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Science, the equations
+title: Science is an equation
 permalink: /science_equation/
 sidebar_link: false
 ---
 
 - I've been doing science for about 15 years.
-- I started off doing science really badly. I still do many things badly, and I often forget how to do things I can do well if I haven't done them for a while (like write a paper). But at least I now know that science is a series of simple equations that can be solved without too much panic.  
+- I started off doing science really badly. I still do many things badly. I often forget how to do things I haven't done them for a while (like write a paper). But at very least I've learned that science is just a series of simple equations.  
 - There are many books about science, the scientific process, scientific writing, etc, *ad nauseam*.
 - But what if someone just showed you some simple equations and their solutions?
 - Like a cheat sheet for the scientific process. Short enough that you can read it quickly. If you don't like it, you don't feel like you've wasted any time.
@@ -21,6 +21,9 @@ sidebar_link: false
 - If you haven't noticed a change, then it's probably not a good question. A famous scientist once told me that you already know the answer when you pose your question or it wouldn't be a question in the first place. Science is just working out if there's enough evidence to support your answer.
 - The crazy thing is about science is that even when  
 
+### Equation 1: collecting the data
+
+- If you don't enjoy this part, choose another study system or occupation.  Nothing more to say.
 
 ### Equation 2: the paper
 

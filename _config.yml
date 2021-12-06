@@ -28,6 +28,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  jmadinlab
 instagram_username: madinlabs
 
+google_analytics: UA-159003653-1
+
 # Build settings
 theme: jekyll-theme-hydeout
 plugins:
