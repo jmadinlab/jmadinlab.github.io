@@ -17,15 +17,27 @@ SR (preprint) Disturbance-induced changes in size-structure promote coral biodiv
 
 ### 2021
 
-- Baird AH, Guest J, Edwards A, Bauman A, Bouwmeester J, Mera H, Abrego D, Alvarez-Noriega M, Babcock R, Barbosa M, Bonito V, Burt J, Cabaitan P, Chang C-F, Chavanich S, Chen C, Chen C-J, Chen W-J, Chung F-C, Connolly S, Cumbo V, Dornelas M, Doropoulos C, Eyal G, Eyal-Shaham L, Fadli N, Figueiredo J, Flot J-F, Gan S-H, Gomez E, Graham E, Grinblat M, Gutiérrez-Isaza N, Harii S, Harrison P, Hatta M, Ho NAJ, Hoarau G, Hoogenboom M, Howells E, Iguchi A, Isomura N, Jamodiong E, Jandang S, Keyse J, Kitanobo S, Kongjandtre N, Kuo C-Y, Ligson C, Lin C-H, Low J, Loya Y, Maboloc E, Madin JS, Mezaki T, Min C, Morita M, Moya A, Neo S-H, Nitschke M, Nojima S, Nozawa Y, Piromvaragorn S, Plathong S, Puill-Stephan E, Quigley K, Ramírez-Portilla C, Ricardo G, Sakai K, Sampayo E, Shlesinger T, Sikim L, Simpson C, Sims C, Sinniger F, Spiji D, Tabalanza T, Tan CH, Terraneo TI, Torda G, True J, Tun K, Vicentuan K, Viyakarn V, Waheed Z, Ward S, Willis B, Woods R, Woolsey E, Yamamoto H, Yusuf S (2021) An Indo-Pacific coral spawning database. *Scientific Data*, 8:35. [[link](https://doi.org/10.1038/s41597-020-00793-8)] [[pdf](/assets/pdfs/Baird et al. - 2021 - An Indo-Pacific coral spawning database.pdf)]
+- Abrego D, Howells EJ, Smith SDA, Madin JS, Sommer B, Schmidt-Roach S, Cumbo VR, Thomson DP, Rosser NL, Baird AH (2021) Factors limiting the range extension of corals into high-Latitude reef regions. *Diversity*, 13: 632. https://doi.org/10.3390/d13120632
 
-- Gómez-Gras D, Linares C, Dornelas M, Madin JS, Brambilla V, Ledoux J-B, López-Sendino P, Bensoussan N, Garrabou J (2021)  Climate change transforms the functional identity of Mediterranean coralligenous assemblages. *Ecology Letters*. [[link](https://doi.org/10.1111/ele.13718)]
+- Baird AH, Guest J, Edwards A, Bauman A, Bouwmeester J, Mera H, Abrego D, Alvarez-Noriega M, Babcock R, Barbosa M, Bonito V, Burt J, Cabaitan P, Chang C-F, Chavanich S, Chen C, Chen C-J, Chen W-J, Chung F-C, Connolly S, Cumbo V, Dornelas M, Doropoulos C, Eyal G, Eyal-Shaham L, Fadli N, Figueiredo J, Flot J-F, Gan S-H, Gomez E, Graham E, Grinblat M, Gutiérrez-Isaza N, Harii S, Harrison P, Hatta M, Ho NAJ, Hoarau G, Hoogenboom M, Howells E, Iguchi A, Isomura N, Jamodiong E, Jandang S, Keyse J, Kitanobo S, Kongjandtre N, Kuo C-Y, Ligson C, Lin C-H, Low J, Loya Y, Maboloc E, Madin JS, Mezaki T, Min C, Morita M, Moya A, Neo S-H, Nitschke M, Nojima S, Nozawa Y, Piromvaragorn S, Plathong S, Puill-Stephan E, Quigley K, Ramírez-Portilla C, Ricardo G, Sakai K, Sampayo E, Shlesinger T, Sikim L, Simpson C, Sims C, Sinniger F, Spiji D, Tabalanza T, Tan CH, Terraneo TI, Torda G, True J, Tun K, Vicentuan K, Viyakarn V, Waheed Z, Ward S, Willis B, Woods R, Woolsey E, Yamamoto H, Yusuf S (2021) An Indo-Pacific coral spawning database. *Scientific Data*, 8:35. https://doi.org/10.1038/s41597-020-00793-8
 
-- Nielsen DA, Fierer N, Geoghegan JL, Gillings MR, Gumerov V, Madin JS, Moore L, Paulsen IT, Reddy TBK, Tetu SG, Westoby M (2021) Aerobic bacteria and archaea tend to have larger and more versatile genomes. *Oikos*. [[link](https://doi.org/10.1111/oik.07912)] [[pdf](/assets/pdfs/Nielsen et al. - 2021 - Aerobic bacteria and archaea tend to have larger a.pdf)]
+- \*Gómez-Gras D, Linares C, Dornelas M, Madin JS, Brambilla V, Ledoux J-B, López-Sendino P, Bensoussan N, Garrabou J (2021)  Climate change transforms the functional identity of Mediterranean coralligenous assemblages. *Ecology Letters*, 24:1038-1051. https://doi.org/10.1111/ele.13718
 
-- Westoby M, Nielsen DA, Gillings MR, Litchman E, Madin JS, Paulsen IT, Tetu SG (2021) Cell size, genome size and maximum growth rate are near-independent dimensions of ecological variation across bacteria and archaea. *Ecology & Evolution*. [[link](https://doi.org/10.1002/ece3.7290)] [[pdf](/assets/pdfs/Westoby et al. - 2021 - Cell size, genome size, and maximum growth rate ar.pdf)]
+- \*Miller S, Yadav S, Madin JS (2021) The contribution of corals to reef structural complexity. *Coral Reefs*, 40:1679-1685. https://doi.org/10.1007/s00338-021-02190-y
 
-- Westoby M, Gillings MR, Madin JS, Nielsen DA, Paulsen IT, Tetu SG (accepted) Trait-dimensions in bacteria and archaea compared to vascular plants. *Ecology Letters*. [[link]()]
+- \*Mizerek TL, Madin JS, Benzoni F, Huang D, Luiz OJ, Mera H, Schmidt-Roach S, Smith SDA, Sommer B, Baird AH (2021) No evidence for tropicalization of coral assemblages in a subtropical climate change hot spot. *Coral Reefs*, 40:1451–1461. https://doi.org/10.1007/s00338-021-02167-x
+
+- Nielsen DA, Fierer N, Geoghegan JL, Gillings MR, Gumerov V, Madin JS, Moore L, Paulsen IT, Reddy TBK, Tetu SG, Westoby M (2021) Aerobic bacteria and archaea tend to have larger and more versatile genomes. *Oikos*, 130:501-511. https://doi.org/10.1111/oik.07912
+
+- Roach TNF, Yadav S, Caruso C, Dilworth J, Foley CM, Hancock JR, Huckeba J, Huffmyer AS, Hughes K, Kahkejian VA, Madin EMP, Matsuda SB, McWilliam M, Miller S, Santoro EP, Rocha de Souza M, Torres-Pulliza D, Drury C, Madin JS (2021) A field primer for monitoring benthic ecosystems using structure-from-motion photogrammetry. *Journal of Visualized Experiments*, 170:e61815. https://dx.doi.org/10.3791/61815
+
+- \*Yadav S, Madin JS, Dacks R, Fisam M, Mawyer A (2021) Shifting fish consumption preferences can impact coral reef resilience in the Maldives: a case study. *Marine Policy*, 134:104773. https://doi.org/10.1016/j.marpol.2021.104773
+
+- Westoby M, Gillings MR, Madin JS, Nielsen DA, Paulsen IT, Tetu SG (2021) Trait-dimensions in bacteria and archaea compared to vascular plants. *Ecology Letters*, 24:1487-1504. https://doi.org/10.1111/ele.13742
+
+- Westoby M, Nielsen DA, Gillings MR, Gumerov V, Madin JS, Paulsen IT, Tetu SG (2021) Strategic traits of bacteria and archaea vary widely within substrate use groups. *FEMS Microbiology Ecology*, 97:fiab142. https://doi.org/10.1093/femsec/fiab142
+
+- Westoby M, Nielsen DA, Gillings MR, Litchman E, Madin JS, Paulsen IT, Tetu SG (2021) Cell size, genome size and maximum growth rate are near-independent dimensions of ecological variation across bacteria and archaea. *Ecology & Evolution*, 11:3956-3976. https://doi.org/10.1002/ece3.7290
 
 ### 2020
 
