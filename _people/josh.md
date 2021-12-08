@@ -2,6 +2,7 @@
 layout: people
 name: Dr Joshua Madin
 id: josh
+role: PI
 email: jmadin@hawaii.edu
 scholar: ho3LuBUAAAAJ
 github: jmadin

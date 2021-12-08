@@ -1,6 +1,8 @@
 ---
 layout: people
 name: Mollie Asbury
+id: mollie
+role: Graduate Student
 email: masbury@hawaii.edu
 github: mollieasbury
 ---

@@ -2,6 +2,7 @@
 layout: people
 name: Shreya Yadav
 id: shreya
+role: Graduate Student
 email: shreyay@hawaii.edu
 scholar: AcVU8A0AAAAJ
 twitter: shreyadav
