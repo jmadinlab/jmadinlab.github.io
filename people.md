@@ -16,8 +16,7 @@ sidebar_sort_order: 1
 
 ### Lab Manager
 
-- Open ([link](https://hcmweb521.rcuh.com/psp/hcmprd_exapp/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_APP_SCHJOB.GBL?Page=HRS_APP_JBPST&Action=U&FOCUS=Applicant&SiteId=3&JobOpeningId=222031&PostingSeq=1
-))
+- Open ([link](/jobs/2022/01/25/lab_manager.html))
 
 ### Postdoctoral Researchers
 
