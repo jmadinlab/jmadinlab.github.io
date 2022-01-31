@@ -16,11 +16,8 @@ sidebar_sort_order: 1
 
 ### Lab Manager
 
-{% for person in site.people %}
-  {% if person.role == "Lab Manager" %}
-  - [{{ person.name }}]({{ person.id }})
-  {% endif %}
-{% endfor %}
+- Open ([link](https://hcmweb521.rcuh.com/psp/hcmprd_exapp/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_APP_SCHJOB.GBL?Page=HRS_APP_JBPST&Action=U&FOCUS=Applicant&SiteId=3&JobOpeningId=222031&PostingSeq=1
+))
 
 ### Postdoctoral Researchers
 
