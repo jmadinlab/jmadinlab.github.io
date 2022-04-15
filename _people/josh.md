@@ -30,6 +30,6 @@ My main interests are quantitative ecology, biophysics and informatics. My big a
 - R User Group [details]
 - HIMB Graduate Seminar [details]
 
-### Teaching
+### Fun fact
 
-- I used to have purple dreadlocks.
+I used to have purple dreadlocks.
