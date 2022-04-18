@@ -3,6 +3,7 @@ layout: people
 name: Jacquelyn Simpson
 id: jacquelyn
 role: Undergraduate Researcher
+current: false
 email: jsimp@hawaii.edu
 ---
 

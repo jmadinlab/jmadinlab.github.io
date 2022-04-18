@@ -3,6 +3,7 @@ layout: people
 name: Dr Mike McWilliam
 id: mike
 role: Postdoctoral Researcher
+current: true
 email: mjmcwilliam@outlook.com
 scholar: p7zc2l0AAAAJ
 twitter: mikemcwilliam23

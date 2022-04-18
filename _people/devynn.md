@@ -3,6 +3,7 @@ layout: people
 name: Devynn Wulstein
 id: devynn
 role: Graduate Student
+current: true
 email: devynnmw@hawaii.edu
 github: d3vynn
 ---

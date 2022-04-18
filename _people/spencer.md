@@ -3,6 +3,7 @@ layout: people
 name: Spencer Miller
 id: spencer
 role: Lab Manager
+current: false
 email: millersp@hawaii.edu
 github: 3DMiller
 website: millerspencer.weebly.com

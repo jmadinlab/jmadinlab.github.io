@@ -3,6 +3,7 @@ layout: people
 name: Symantha Robblee
 id: sym
 role: Undergraduate Researcher
+current: false
 email: srobblee@hawaii.edu
 ---
 

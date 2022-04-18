@@ -3,6 +3,7 @@ layout: people
 name: Garrett Fundakowski
 id: garrett
 role: Graduate Student
+current: true
 email: gf64@st-andrews.ac.uk
 ---
 

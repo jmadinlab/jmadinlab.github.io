@@ -3,6 +3,7 @@ layout: people
 name: Kimmie Youngs
 id: kimmie
 role: Undergraduate Researcher
+current: false
 email: kyoungs@hawaii.edu
 ---
 

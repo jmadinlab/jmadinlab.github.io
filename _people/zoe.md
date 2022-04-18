@@ -3,6 +3,7 @@ layout: people
 name: Zoe Denckla
 id: zoe
 role: Undergraduate Researcher
+current: true
 email: zdenckla@hawaii.edu
 ---
 

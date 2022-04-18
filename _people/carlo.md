@@ -3,6 +3,7 @@ layout: people
 name: Carlo Caruso
 email: carusoc@hawaii.edu
 role: Graduate Student
+current: true
 github: NamakuraGitHub
 ---
 

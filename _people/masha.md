@@ -3,6 +3,7 @@ layout: people
 name: Masha Rutenberg
 id: masha
 role: Undergraduate Researcher
+current: true
 email: mariyar@hawaii.edu
 ---
 

@@ -2,6 +2,7 @@
 layout: people
 id: nina
 role: Postdoctoral Researcher
+current: true
 name: Dr Nina Schiettekatte
 email: nina.schiettekatte@gmail.com
 twitter: NinaSchiett
