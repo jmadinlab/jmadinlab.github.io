@@ -22,6 +22,14 @@ These are recent publications since starting at HIMB. Go to [People](/people) pa
 
 - Madin JS, McWilliam M, Quigley K, Bay L, Bellwood D, Doropoulos C, Fernandes L, Harrison P, Hoey A, Mumby P, Richards Z, Riginos C, Suggett D, van Oppen M (preprint) Selecting species for restoration in foundational assemblages. *bioRxiv* [[link](https://doi.org/10.1101/2021.11.03.467181)]
 
+### 2022
+
+- Brambilla V, Barbosa M, Dehnert I, Madin JS, Maggioni D, Peddie C, Dornelas M (accepted) Shaping coral traits: plasticity more than filtering. *Marine Ecology Progress Series*.
+
+- Herberstein M, McLean D, Lowe E, Wolff J, Khan MDK, Smith K, Allen A, Bulbert M, Buzatto B, Eldridge M, Falster D, Fernandez Winzer L, Griffith S, Madin JS, Narendra A, Westoby M, Whiting M, Wright I, Carthey A (accepted) AnimalTraits- a curated animal trait database for body mass, metabolic rate and brain size. *Scientific Data*,
+
+- van Woesik R, Shlesinger T, Grottoli AG, Toonen RJ, Vega Thurber R, Warner ME, Hulver AM, Chapron L, McLachlan RL, Albright R, Crandall E, DeCarlo TM, Donovan MK, Eirin-Lopez J, Harrison HB, Heron SF, Huang D, Humanes A, Krueger T, Madin JS, Manzello D, McManus LC, Matz M, Muller EM, Rodriguez-Lanetty M, Vega-Rodriguez M, Voolstra CR, Zaneveld J (2022) Coral-bleaching responses to climate change across biological scales. *Global Change Biology*, https://doi.org/10.1111/gcb.16192
+
 ### 2021
 
 - Abrego D, Howells EJ, Smith SDA, Madin JS, Sommer B, Schmidt-Roach S, Cumbo VR, Thomson DP, Rosser NL, Baird AH (2021) Factors limiting the range extension of corals into high-Latitude reef regions. *Diversity*, 13: 632. https://doi.org/10.3390/d13120632
