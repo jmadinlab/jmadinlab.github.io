@@ -20,7 +20,7 @@
 #   Ecology, geometry and biomechanics.
 #   Structure and function of coral reefs
 
-title:
+title:  
 email: jmadin@hawaii.edu
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
