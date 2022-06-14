@@ -2,9 +2,12 @@
 # Jekyll needs front matter for SCSS files
 ---
 
-$sidebar-bg-color: #5d6037;
+// $sidebar-bg-color: #5d6037;
+$sidebar-bg-color: #8DA795;
 $link-color: #888;
-$sidebar-sticky: false;
+$section-spacing: 2rem !default;
+$large-font-size: 1.25rem !default;
+//$sidebar-width: 20rem !default;
 
 .sideDiv {
     display: inline-block;
@@ -14,13 +17,15 @@ $sidebar-sticky: false;
 }
 
 #sidebar {
-  flex: 10 10;
-  // padding: $section-spacing;
-  // overflow-y: scroll;
+  flex: 0 0 auto;
+  padding: $section-spacing;
+  overflow-y: scroll;
+  top: 0;
+  bottom: 0;
 
   .site-title {
     font-family: 'Abril Fatface', serif;
-    // font-size: $large-font-size;
+    font-size: $large-font-size;
     font-weight: normal;
     // margin-bottom: $heading-spacing;
     margin-top: 0;
