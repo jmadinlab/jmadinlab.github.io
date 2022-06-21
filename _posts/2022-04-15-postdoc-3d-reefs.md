@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Two postdocs available: quantifying and building 3D surface habitats"
+title:  "Two postdocs available: quantifying and building 3D surface habitats (closed)"
 date:   2022-04-15
 categories: news
 ---
