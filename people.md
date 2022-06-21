@@ -48,8 +48,6 @@ sidebar_sort_order: 1
   {% endif %}
 {% endfor %}
 
-- Openings available ([link](/jobs/2022/04/04/internships.html))
-
 ### Past members
 
 {% for person in site.people %}
