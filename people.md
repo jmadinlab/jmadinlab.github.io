@@ -30,8 +30,6 @@ sidebar_sort_order: 1
   {% endif %}
 {% endfor %}
 
-- Openings available ([link](/news/2022/04/15/postdoc-3d-reefs.html))
-
 ### Graduate Students
 
 {% for person in site.people %}
