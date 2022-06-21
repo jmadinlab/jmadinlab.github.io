@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "We're looking for a Lab Manager!"
+title:  "We're looking for a Lab Manager (closed)"
 date:   2022-01-25
 categories: jobs
 ---
