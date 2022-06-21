@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Paid internship opportunity at HIMB"
+title:  "Paid internship opportunity at HIMB (closed)"
 date:   2022-04-04
 categories: jobs
 ---
@@ -18,4 +18,4 @@ Tasks will include :
 
 Experience with marine ecology and ceramics is preferred but not required. Motivation to learn about clay, 3d printing, and coral settlement is the most important requirement.
 
-Please email questions and applications to [nina.schiettekatte@gmail.com](mailto:nina.schiettekatte@gmail.com). Please provide Resume/CV and short Cover Letter.
+> These positions are closed.
