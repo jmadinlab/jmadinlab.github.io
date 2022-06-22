@@ -9,6 +9,7 @@ email: trevords@hawaii.edu
 
 ### History
 
+*Bachelor’s of Science in Marine Science at UH Hilo (estimated graduation in Spring 2023)*
 
 ### Research
 
