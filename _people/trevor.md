@@ -13,6 +13,8 @@ email: trevords@hawaii.edu
 
 ### Research
 
+My interests are in artificial intelligence vision, data science & coral reef morphological plasticity and structural complexity.
 
 ### Fun Fact
 
+Despite being a marine scientist, I am terribly allergic to shellfish.
