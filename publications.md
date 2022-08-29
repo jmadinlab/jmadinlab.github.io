@@ -2,7 +2,7 @@
 layout: page
 title: Recent Publications
 permalink: /publications/
-sidebar_link: true
+sidebar_link: false
 sidebar_sort_order: 3
 ---
 
