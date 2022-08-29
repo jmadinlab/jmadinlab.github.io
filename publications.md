@@ -16,19 +16,23 @@ These are recent publications since starting at HIMB. Go to [People](/people) pa
 
 - Brambilla V, Baird AH, Barbosa M, Dehnert I, Madin JS, Peddie C, Dornelas M (preprint) Coral niche construction: coral recruitment increases along a coral-built structural complexity gradient. *bioRxiv* [[link](https://doi.org/10.1101/2021.10.14.464352)]
 
-- Caruso C, Rocha de Souza M, Ruiz-Jones L, Conetta D, Hancock J, Hobbs C, Hobbs C, Kahkejian V, Kitchenn R, Marin C, Monismith S, Madin JS, Gates R, Drury C (preprint) Genetic patterns in Montipora capitata across an environmental mosaic in Kāne’ohe Bay. *bioRxiv* [[link](https://doi.org/10.1101/2021.10.07.463582)]
-
 - Chow CFY, Bolton C, Boutros N, Brambilla V, Fontoura L, Hoey AS, Madin JS, Pizarro O, Torres-Pulliza D, Woods RM, Zawada KJA, Barbosa M, Dornelas M (preprint) Coral settlement and recruitment responses to reef fish foraging and trait diversity. *bioRxiv* [[link](https://doi.org/10.1101/2021.10.19.464984)]
+
+- Keller A, Ankenbrand M, Bruelheide H, Dekeyzer S, Enquist BJ, Erfanian MB, Falster D, Gallagher RV, Hammock J, Kattge J, Leonhardt SD, Madin JS, Maitner B, Neyret M, Onstein RE, Pearse WD, Poelen JH, Salguero-Gomez R, Schneider FD, Tóth AB, Penone C (preprint) Ten (mostly) simple rules to future-proof trait data in ecological and evolutionary sciences. [[link](https://doi.org/10.22541/au.165854021.12539794/v1)]
 
 - Madin JS, McWilliam M, Quigley K, Bay L, Bellwood D, Doropoulos C, Fernandes L, Harrison P, Hoey A, Mumby P, Richards Z, Riginos C, Suggett D, van Oppen M (preprint) Selecting species for restoration in foundational assemblages. *bioRxiv* [[link](https://doi.org/10.1101/2021.11.03.467181)]
 
 ### 2022
 
-- Brambilla V, Barbosa M, Dehnert I, Madin JS, Maggioni D, Peddie C, Dornelas M (accepted) Shaping coral traits: plasticity more than filtering. *Marine Ecology Progress Series*.
+- Brambilla V, Barbosa M, Dehnert I, Madin JS, Maggioni D, Peddie C, Dornelas M (2022) Shaping coral traits: plasticity more than filtering. *Marine Ecology Progress Series*, 692:53-65. [[link](https://doi.org/10.3354/meps14080)]
 
-- Herberstein M, McLean D, Lowe E, Wolff J, Khan MDK, Smith K, Allen A, Bulbert M, Buzatto B, Eldridge M, Falster D, Fernandez Winzer L, Griffith S, Madin JS, Narendra A, Westoby M, Whiting M, Wright I, Carthey A (accepted) AnimalTraits- a curated animal trait database for body mass, metabolic rate and brain size. *Scientific Data*,
+- Caruso C, Rocha de Souza M, Ruiz-Jones L, Conetta D, Hancock J, Hobbs C, Hobbs C, Kahkejian V, Kitchenn R, Marin C, Monismith S, Madin JS, Gates R, Drury C (accepted) Genetic patterns in Montipora capitata across an environmental mosaic in Kāne’ohe Bay. *Molecular Ecology*. [[link](https://doi.org/10.1101/2021.10.07.463582)]
 
-- van Woesik R, Shlesinger T, Grottoli AG, Toonen RJ, Vega Thurber R, Warner ME, Hulver AM, Chapron L, McLachlan RL, Albright R, Crandall E, DeCarlo TM, Donovan MK, Eirin-Lopez J, Harrison HB, Heron SF, Huang D, Humanes A, Krueger T, Madin JS, Manzello D, McManus LC, Matz M, Muller EM, Rodriguez-Lanetty M, Vega-Rodriguez M, Voolstra CR, Zaneveld J (2022) Coral-bleaching responses to climate change across biological scales. *Global Change Biology*, https://doi.org/10.1111/gcb.16192
+- Herberstein M, McLean D, Lowe E, Wolff J, Khan MDK, Smith K, Allen A, Bulbert M, Buzatto B, Eldridge M, Falster D, Fernandez Winzer L, Griffith S, Madin JS, Narendra A, Westoby M, Whiting M, Wright I, Carthey A (2022) AnimalTraits - a curated animal trait database for body mass, metabolic rate and brain size. *Scientific Data*, 9:265. [[link](https://doi.org/10.1038/s41597-022-01364-9)]
+
+- McWilliam M, Dornelas M, Álvarez-Noriega M, Baird AH, Connolly SR, Madin JS (accepted) Net effects of life-history traits explain persistent differences in abundance among similar species. *Ecology*,
+
+- van Woesik R, Shlesinger T, Grottoli AG, Toonen RJ, Vega Thurber R, Warner ME, Hulver AM, Chapron L, McLachlan RL, Albright R, Crandall E, DeCarlo TM, Donovan MK, Eirin-Lopez J, Harrison HB, Heron SF, Huang D, Humanes A, Krueger T, Madin JS, Manzello D, McManus LC, Matz M, Muller EM, Rodriguez-Lanetty M, Vega-Rodriguez M, Voolstra CR, Zaneveld J (2022) Coral-bleaching responses to climate change across biological scales. *Global Change Biology*, [[link](https://doi.org/10.1111/gcb.16192)]
 
 ### 2021
 
