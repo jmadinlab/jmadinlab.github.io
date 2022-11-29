@@ -9,12 +9,8 @@ email: scrichton1@my.hpu.edu
 
 ### History
 
-*X*
+*•Hawaii Pacific University B.S. Marine Biology with Sustainability minor (Fall 2021 - Spring 2025)*
 
 ### Research
 
-X
-
-### Fun Fact
-
-X
+I’m interested in researching coral reefs and applying my knowledge towards coral restoration. After graduation, I plan to move to Australia and help restore the Great Barrier Reef.
