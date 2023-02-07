@@ -5,9 +5,9 @@ id: hendrikje
 role: Postdoctoral Researcher
 current: true
 email: jorissen@hawaii.edu
-scholar: fUrjR4AAAAJ
+scholar: fUrjR4AAAAJ&hl
 twitter: hen3kje
-gitHub: HendrikjeJorissen
+github: HendrikjeJorissen
 ---
 
 ### History
