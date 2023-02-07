@@ -5,7 +5,7 @@ id: yan
 email: guanyan@hawaii.edu
 role: Graduate Student
 current: true
-instragram: keelungchen999
+instagram: keelungchen999
 ---
 
 ### History
