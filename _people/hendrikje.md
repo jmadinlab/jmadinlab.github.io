@@ -1,12 +1,13 @@
 ---
 layout: people
 name: Dr Hendrikje Jorissen
+id: hendrikje
 role: Postdoctoral Researcher
 current: true
 email: jorissen@hawaii.edu
-Scholar: https://scholar.google.be/citations?user=_fUrjR4AAAAJ&hl
-Twitter: hen3kje
-GitHub: HendrikjeJorissen
+scholar: fUrjR4AAAAJ
+twitter: hen3kje
+gitHub: HendrikjeJorissen
 ---
 
 ### History
