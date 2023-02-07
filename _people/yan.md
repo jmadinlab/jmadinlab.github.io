@@ -1,11 +1,11 @@
 ---
 layout: people
 name: Guan-Yan Chen
+id: yan
 email: guanyan@hawaii.edu
 role: Graduate Student
 current: true
 instragram: keelungchen999
-
 ---
 
 ### History
