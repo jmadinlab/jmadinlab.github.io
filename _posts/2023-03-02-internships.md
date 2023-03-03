@@ -5,7 +5,7 @@ date:   2023-03-03
 categories: jobs
 ---
 
-<img src="/assets/posts/internship-2023.png" width="500"/>
+<img src="/assets/posts/internship-2023.png" width="750"/>
 
 The J Madin lab is seeking one or more interns for the summer season of 2023 to construct concrete & ceramic reef structures, perform coral settlement experiments, and deploy and survey structures in the reef.
 Deadline to apply March 20th. 
