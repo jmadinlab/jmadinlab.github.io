@@ -23,6 +23,6 @@ Experience with marine ecology/biology any specific technique mentioned is appre
 
 **APPLICATION CLOSING DATE: March 20, 2023**
 
-> Ideally the internship will start in May 2023.
+Ideally the internship will start in May 2023.
 
 Send CV and cover letter to [Marion chapeau](mailto:mchapeau@hawaii.edu).
