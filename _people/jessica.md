@@ -16,7 +16,6 @@ github: JessiReichert
 - Postdoctoral Researcher (2018-2023) Justus Liebig University Gießen, Germany
 - Doctoral studies (2013-2018) Justus Liebig University Gießen, Germany
 - Master and Bachelor of Science in Biology (2008-2013) Justus Liebig University Gießen, Germany and James-Cook-University Townsville, Australia
-- Postdoctoral Research Fellow (2020-present) Hawaii Institute of Marine Biology, University of Hawaii at Manoa, USA
 
 
 
