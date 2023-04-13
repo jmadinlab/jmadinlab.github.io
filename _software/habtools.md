@@ -3,7 +3,7 @@ layout: software
 id: habtools
 name: habtools
 language: R
-contactName: Joshua Madin
+contactName: Joshua Madin & Nina Schiettekatte
 contactEmail: jmadin@hawaii.edu
 license: CC0
 paperDOIcitation: 
