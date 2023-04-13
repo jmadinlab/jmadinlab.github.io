@@ -1,0 +1,23 @@
+---
+layout: default
+---
+<article class="post">
+  <header class="post-header">
+    <h1 class="post-title">Software: {{ page.name | escape }}</h1>
+    <p>[<a href="https://github.com/jmadinlab/jmadinlab.github.io/edit/master/_software/{{ page.id | split: "/" | last }}.md" target="_blank">Edit</a>]</p>
+  </header>
+
+  <div class="post-content">
+
+    <p><code>description</code>: {{ page.description }}</p>
+    <p><code>webpage</code>: <a href="{{ page.webpage }}">{{ page.webpage }}</a></p>
+    <p><code>gitHub</code>: <a href="{{ page.gitHub }}">{{ page.gitHub }}</a></p>
+    <p><code>paperDOIcitation</code>: <a href="{{ page.paperDOIcitation }}">{{ page.paperDOIcitation }}</a></p>
+    <p><code>language</code>: {{ page.language }}</p>
+
+    <p><code>contactName</code>: {{ page.contactName }}</p>
+    <p><code>contactEmail</code>: <a href="mailto:{{ page.contactEmail }}">{{ page.contactEmail }}</a></p>
+    <p><code>license</code>: {{ page.license }}</p>
+
+  </div>
+</article>
