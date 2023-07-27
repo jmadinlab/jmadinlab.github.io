@@ -3,7 +3,7 @@ layout: people
 name: Ray Crichton
 id: ray
 role: Undergraduate Researcher
-current: true
+current: false
 email: scrichton1@my.hpu.edu
 ---
 
