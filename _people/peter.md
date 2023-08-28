@@ -3,7 +3,7 @@ layout: people
 name: Peter Felicijan
 id: peter
 role: Undergraduate Researcher
-current: true
+current: false
 email:  peterfel@hawaii.edu
 ---
 
