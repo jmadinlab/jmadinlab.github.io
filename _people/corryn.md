@@ -15,4 +15,4 @@ email: corrynh@hawaii.edu
 
 ### Research
 
-I am endlessly fascinated by all things marine science, psychology, and ethics. More specifically, I am interested in knowing how human activity is impacting marine ecosystems and learning ways to solve these problems. I am interested in the link between research science and policy.
+I am interested in marine conservation and restoration. I have been involved with research that studies coral and fish associations with various structural complexities of artificial reefs. In the future I hope to utilize ecosystem-based management practices that are informed by traditional Hawaiian resource management practices to help conserve and restore marine ecosystems.
