@@ -2,15 +2,15 @@
 layout: people
 name: Corryn Haynes
 id: corryn
-role: Undergraduate Researcher
+role: Lab Technician
 current: true
-email: chaynes4@my.hpu.edu
+email: corrynh@hawaii.edu
 
 ---
 
 ### History
 
-- *Currently an undergrad at HPU majoring in Marine Biology (Fall 2021- Spring 2023)*
+- *Graduated from HPU undergraduate program majoring in Marine Biology (Fall 2021- Spring 2023)*
 - *BFA Art and Design concentration in Photography from California Polytechnic State University (2014-2018)*
 
 ### Research
