@@ -10,8 +10,8 @@ email: corrynh@hawaii.edu
 
 ### History
 
-- *Graduated from HPU undergraduate program majoring in Marine Biology (Fall 2021- Spring 2023)*
-- *BFA Art and Design concentration in Photography from California Polytechnic State University (2014-2018)*
+- *BS Marine Biology - Hawaii Pacific University 2023*
+- *BFA Art & Design concentration in Photography- California Polytechnic State University 2018*
 
 ### Research
 
