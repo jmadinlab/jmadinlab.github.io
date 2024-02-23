@@ -3,7 +3,7 @@ layout: people
 name: Viviana Brambilla
 id: vivi
 role: Graduate Student
-current: true
+current: false
 email: vb42@st-andrews.ac.uk
 github: VivBramb
 ---
