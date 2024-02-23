@@ -11,7 +11,7 @@ email: corrynh@hawaii.edu
 ### History
 
 - *BS Marine Biology - Hawaii Pacific University 2023*
-- *BFA Art & Design concentration in Photography- California Polytechnic State University 2018*
+- *BFA Art & Design concentration in Photography - California Polytechnic State University 2018*
 
 ### Research
 
