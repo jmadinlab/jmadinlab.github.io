@@ -35,6 +35,7 @@ google_analytics: UA-159003653-1
 # theme: jekyll-theme-hydeout
 plugins:
   - jekyll-feed
+  - jekyll-paginate
 
 remote_theme: fongandrew/hydeout
 paginate: 5
