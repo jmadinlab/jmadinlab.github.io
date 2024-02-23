@@ -12,7 +12,9 @@ layout: default
     </div>
     <div class="sideDiv">
       {{ page.role }}<br>
-      Email: <a href="mailto:{{ page.email }}">{{ page.email }}</a><br>
+      {% if page.email %}
+        Email: <a href="mailto:{{ page.email }}">{{ page.email }}</a><br>
+      {% endif %}
       {% if page.website %}
         Website: <a href="https://{{ page.website }}">{{ page.website }}</a><br>
       {% endif %}
