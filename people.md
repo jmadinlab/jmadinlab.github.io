@@ -22,6 +22,14 @@ sidebar_sort_order: 1
   {% endif %}
 {% endfor %}
 
+### Lab Technician
+
+{% for person in site.people %}
+  {% if person.role == "Lab Technician" and person.current %}
+  - [{{ person.name }}]({{ person.id }})
+  {% endif %}
+{% endfor %}
+
 ### Postdoctoral Researchers
 
 {% for person in site.people %}
