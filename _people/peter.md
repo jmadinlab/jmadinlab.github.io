@@ -4,6 +4,7 @@ name: Peter Felicijan
 id: peter
 role: Undergraduate Researcher
 current: false
+published: false
 email:  peterfel@hawaii.edu
 ---
 
