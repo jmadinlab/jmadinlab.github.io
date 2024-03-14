@@ -4,6 +4,7 @@ name: Ray Crichton
 id: ray
 role: Undergraduate Researcher
 current: false
+published: false
 email: scrichton1@my.hpu.edu
 ---
 
