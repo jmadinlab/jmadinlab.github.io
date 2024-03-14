@@ -4,6 +4,7 @@ name: Trevor Nishida
 id: trevor
 role: Undergraduate Researcher
 current: false
+published: false
 email: trevords@hawaii.edu
 ---
 
