@@ -4,6 +4,7 @@ name: Zoe Denckla
 id: zoe
 role: Undergraduate Researcher
 current: false
+published: false
 email: zdenckla@hawaii.edu
 ---
 
