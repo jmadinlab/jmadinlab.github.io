@@ -3,7 +3,7 @@ layout: people
 name: Maluhiahāliʻiokauaʻiepilialoha Stark-Kinimaka
 id: maluhia
 role: Graduate Student
-current: true
+published: true
 email: maluhiah@hawaii.edu
 github: maluhiakinimaka
 ---
@@ -19,7 +19,7 @@ github: maluhiakinimaka
 
 ### Research
 
-Aloha mai kāua e, I come from the island of Kauaʻi where I was born and raised in the ahupuaʻa of Anahola. During my time on Moku o Loʻe, 
-I will be observing the relationship between coral reef morphology and wave attenuation to better quantify bottom friction in shallow water zones. 
-As a kilomoana, the term for a marine scientist in ʻŌlelo Hawaiʻi (Hawaiian Language), it is my privilege to blend modern technology and ʻIke Hawaiʻi to offer 
+Aloha mai kāua e, I come from the island of Kauaʻi where I was born and raised in the ahupuaʻa of Anahola. During my time on Moku o Loʻe,
+I will be observing the relationship between coral reef morphology and wave attenuation to better quantify bottom friction in shallow water zones.
+As a kilomoana, the term for a marine scientist in ʻŌlelo Hawaiʻi (Hawaiian Language), it is my privilege to blend modern technology and ʻIke Hawaiʻi to offer
 revitalized perspectives and solutions for the future of ocean stewardship.

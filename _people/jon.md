@@ -3,7 +3,7 @@ layout: people
 name: Jon Ehrenberg
 email: jgke@hawaii.edu
 role: Graduate Student
-current: true
+published: true
 github: Jehrenberg
 ---
 

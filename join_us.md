@@ -3,7 +3,7 @@ layout: page
 title: Join Us
 permalink: /join_us/
 sidebar_link: true
-sidebar_sort_order: 4
+sidebar_sort_order: 3
 ---
 
 If you're interesting in joining us as a graduate student, postdoc, technician, or intern, below is some information to help you decide.

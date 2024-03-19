@@ -4,7 +4,7 @@ name: Guan-Yan Chen
 id: yan
 email: guanyan@hawaii.edu
 role: Graduate Student
-current: true
+published: true
 instagram: keelungchen999
 ---
 
@@ -18,4 +18,4 @@ instagram: keelungchen999
 
 ### Research
 
-I am interested in anything related to 3D technology, now mostly focusing on the population dynamics of corals and their relationship with morphological traits. I am conducting reefs 3D monitoring projects in Taiwan and willing to share the data. I am also interested in octocoral taxonomy for personal interests. 
+I am interested in anything related to 3D technology, now mostly focusing on the population dynamics of corals and their relationship with morphological traits. I am conducting reefs 3D monitoring projects in Taiwan and willing to share the data. I am also interested in octocoral taxonomy for personal interests.

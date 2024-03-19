@@ -3,7 +3,7 @@ layout: people
 name: Lomani Rova
 id: lomani
 role: Undergraduate Researcher
-current: true
+published: true
 email: lomani@hawaii.edu
 ---
 
@@ -13,5 +13,5 @@ email: lomani@hawaii.edu
 
 ### Research
 
-My interests lie in the areas of coral classification and conservation. I am passionate about bridging the gap between the western and indigenous sciences surrounding coral reefs, particularly in my home country of Fiji. 
+My interests lie in the areas of coral classification and conservation. I am passionate about bridging the gap between the western and indigenous sciences surrounding coral reefs, particularly in my home country of Fiji.
 I draw heavily from my family's traditional tribal role as 'gonedau' or fisherpeople and custodians of the ocean.

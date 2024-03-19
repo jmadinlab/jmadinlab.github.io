@@ -3,7 +3,7 @@ layout: people
 name: Dr Jessica Reichert (Haver)
 id: jessica
 role: Postdoctoral Researcher
-current: true
+published: true
 email: jhaver@hawaii.edu
 scholar: 9p1HAkcAAAAJ
 twitter: JessiReichert7

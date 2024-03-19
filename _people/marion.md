@@ -3,7 +3,7 @@ layout: people
 name: Marion Chapeau
 id: marion
 role: Lab Manager
-current: true
+published: true
 email: mchapeau@hawaii.edu
 ---
 

@@ -2,7 +2,7 @@
 layout: people
 name: Renee Wold
 id: renee
-current: false
+published: false
 role: Undergraduate Researcher
 published: false
 email: rwold@hawaii.edu

@@ -36,8 +36,11 @@ google_analytics: UA-159003653-1
 plugins:
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 remote_theme: fongandrew/hydeout
+# remote_theme: pages-themes/minimal@v0.2.0
+
 paginate: 5
 
 # Exclude from processing.

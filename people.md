@@ -9,7 +9,7 @@ sidebar_sort_order: 1
 ### Principal Investigator
 
 {% for person in site.people %}
-  {% if person.role == "PI" and person.current %}
+  {% if person.role == "PI" %}
   - [{{ person.name }}]({{ person.id }})
   {% endif %}
 {% endfor %}
@@ -17,7 +17,7 @@ sidebar_sort_order: 1
 ### Lab Manager
 
 {% for person in site.people %}
-  {% if person.role == "Lab Manager" and person.current %}
+  {% if person.role == "Lab Manager" %}
   - [{{ person.name }}]({{ person.id }})
   {% endif %}
 {% endfor %}
@@ -25,7 +25,7 @@ sidebar_sort_order: 1
 ### Lab Technician
 
 {% for person in site.people %}
-  {% if person.role == "Lab Technician" and person.current %}
+  {% if person.role == "Lab Technician" %}
   - [{{ person.name }}]({{ person.id }})
   {% endif %}
 {% endfor %}
@@ -33,7 +33,7 @@ sidebar_sort_order: 1
 ### Postdoctoral Researchers
 
 {% for person in site.people %}
-  {% if person.role == "Postdoctoral Researcher" and person.current %}
+  {% if person.role == "Postdoctoral Researcher" %}
   - [{{ person.name }}]({{ person.id }})
   {% endif %}
 {% endfor %}
@@ -41,7 +41,7 @@ sidebar_sort_order: 1
 ### Graduate Students
 
 {% for person in site.people %}
-  {% if person.role == "Graduate Student" and person.current %}
+  {% if person.role == "Graduate Student" %}
   - [{{ person.name }}]({{ person.id }})
   {% endif %}
 {% endfor %}
@@ -49,20 +49,20 @@ sidebar_sort_order: 1
 ### Undergraduate Researchers
 
 {% for person in site.people %}
-  {% if person.role == "Undergraduate Researcher" and person.current %}
+  {% if person.role == "Undergraduate Researcher" %}
   - [{{ person.name }}]({{ person.id }})
   {% endif %}
 {% endfor %}
 
-### Past members
+<!-- ### Past members
 
 {% for person in site.people %}
   {% if person.current == false %}
   - {{ person.name }} ({{ person.role }})
   {% endif %}
-{% endfor %}
+{% endfor %} -->
 
-- Peter David (Masters)
+<!-- - Peter David (Masters)
 - Marcela Diaz (Research Assistant)
 - Marguerite Gosse (Research Assistant)
 - Liesl Grant (Undergraduate Project)
@@ -79,6 +79,6 @@ sidebar_sort_order: 1
 - Jack Roxburgh (Undergraduate Project)
 - Sheena Su (Masters)
 - Dr Rachael Woods (Masters, PhD)
-- Dr Kyle Zawada (PhD)
+- Dr Kyle Zawada (PhD) -->
 
-[[Add member](https://github.com/jmadinlab/jmadinlab.github.io/issues/new?assignees=jmadin&labels=add+person&template=add-person.md&title=I%27d+like+to+add+myself+to+the+lab)]
+<!-- [[Add member](https://github.com/jmadinlab/jmadinlab.github.io/issues/new?assignees=jmadin&labels=add+person&template=add-person.md&title=I%27d+like+to+add+myself+to+the+lab)] -->

@@ -3,7 +3,6 @@ layout: people
 name: Corryn Haynes
 id: corryn
 role: Lab Technician
-current: true
 email: corrynh@hawaii.edu
 
 ---

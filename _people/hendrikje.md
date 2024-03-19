@@ -3,7 +3,7 @@ layout: people
 name: Dr Hendrikje Jorissen
 id: hendrikje
 role: Postdoctoral Researcher
-current: true
+published: true
 email: jorissen@hawaii.edu
 scholar: _fUrjR4AAAAJ&hl
 twitter: hen3kje

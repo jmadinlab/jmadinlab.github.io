@@ -3,7 +3,7 @@ layout: people
 name: Damaris Torres-Pulliza
 id: dama
 role: Graduate Student
-current: true
+published: true
 email: dtorrespulliza@gmail.com
 scholar: zA6E3FUAAAAJ
 twitter: 4reefs

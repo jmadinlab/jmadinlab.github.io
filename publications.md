@@ -3,7 +3,7 @@ layout: page
 title: Recent Publications
 permalink: /publications/
 sidebar_link: false
-sidebar_sort_order: 3
+sidebar_sort_order: 4
 ---
 
 <!-- <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script> -->

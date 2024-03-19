@@ -3,7 +3,7 @@ layout: people
 name: Dr Daniel Gomez Gras
 id: dani
 role: Postdoctoral Researcher
-current: true
+published: true
 email: danielgomezgras@ucm.es
 scholar: JdjnkF0AAAAJ
 twitter: danigomezgras
