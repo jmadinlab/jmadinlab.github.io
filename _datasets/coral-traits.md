@@ -18,6 +18,6 @@ description: The Coral Trait Database is a growing compilation of scleractinian 
 usefulClasses: Mostly in-situ measurements of individual corals
 dataStandard:
 standardizationScripts:
-webpage: https://coraltraits.org
+webpage: https://www.coraltraits.org
 access: true
 ---
