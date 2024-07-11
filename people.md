@@ -14,7 +14,7 @@ sidebar_sort_order: 1
   {% endif %}
 {% endfor %}
 
-### Lab Manager
+<!-- ### Lab Manager -->
 
 {% for person in site.people %}
   {% if person.role == "Lab Manager" %}
@@ -22,7 +22,7 @@ sidebar_sort_order: 1
   {% endif %}
 {% endfor %}
 
-### Lab Technician
+<!-- ### Lab Technician -->
 
 {% for person in site.people %}
   {% if person.role == "Lab Technician" %}

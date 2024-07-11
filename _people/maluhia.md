@@ -3,7 +3,7 @@ layout: people
 name: Maluhiahāliʻiokauaʻiepilialoha Stark-Kinimaka
 id: maluhia
 role: Graduate Student
-published: true
+published: false
 email: maluhiah@hawaii.edu
 github: maluhiakinimaka
 ---
