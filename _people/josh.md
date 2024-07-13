@@ -28,7 +28,7 @@ My main interests are quantitative ecology, biophysics and informatics. My big a
 
 ### Teaching
 
-- MBIO 640, Coral Reef Structure and Function
+- [MBIO 640, Coral Reef Structure and Function](https://manoa.hawaii.edu/catalog/courses/mbio-640-coral-reef-structure-and-function-3/)
 
 ### Fun fact
 
