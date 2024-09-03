@@ -3,7 +3,7 @@ layout: post
 title:  "Printing habitat"
 excerpt_separator: "<!--more-->"
 date:   2024-04-02
-categories: jobs
+categories: research
 ---
 
 <img src="/assets/posts/Clayprinting_small.mov" width="300"/>

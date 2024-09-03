@@ -3,7 +3,7 @@ layout: post
 title:  "Lighthouse deployment"
 excerpt_separator: "<!--more-->"
 date:   2024-07-01
-categories: news
+categories: research
 ---
 
 <img src="/assets/posts/lighthouse.jpg" width="800"/>

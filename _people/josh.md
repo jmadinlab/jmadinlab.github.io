@@ -11,8 +11,8 @@ github: jmadin
 
 ### History
 
-- *Research Professor (2022-present) Hawaii Institute of Marine Biology, University of Hawaii Manoa, USA*
-- *Associate Research Professor (2018-2022) Hawaii Institute of Marine Biology, University of Hawaii Manoa, USA*
+- *Researcher (2022-present) Hawaii Institute of Marine Biology, University of Hawaii Manoa, USA*
+- *Associate Researcher (2018-2022) Hawaii Institute of Marine Biology, University of Hawaii Manoa, USA*
 - *ARC Future Fellow (2012-2018) Department of Biological Sciences, Macquarie University, Australia*
 - *Senior Lecturer (2008-2012) Department of Biological Sciences, Macquarie University, Australia*
 - *Postdoctoral Fellow (2005-2008) National Center for Ecological Analysis and Synthesis, University of California, Santa Barbara, USA*
