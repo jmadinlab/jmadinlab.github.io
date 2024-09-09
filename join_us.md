@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Join Us
+title: Join us
 permalink: /join_us/
 sidebar_link: true
-sidebar_sort_order: 3
+sidebar_sort_order: 4
 ---
 
 If you're interesting in joining the Geometric Ecology Lab as a graduate student, postdoc, technician, or intern, below is some information to help you decide.

@@ -14,11 +14,15 @@ Lab project data and code will appear at our GitHub organization: [jmadinlab](ht
 
 ### Software
 
-|Name|Description|Language|
+|Package   |Description|Language|
 |---|---|---|
 {%- for app in site.software %}
-| [{{ app.name }}]({{ app.id }})| {{ app.description }} |   {{ app.language }} |
+| [<img src="/assets/{{ app.name }}.png" width="100px" />](https://jmadinlab.github.io/{{ app.name }})|{{ app.description }} |   {{ app.language }} |
 {%- endfor %}
+
+
+
+
 
 ### Datasets
 
