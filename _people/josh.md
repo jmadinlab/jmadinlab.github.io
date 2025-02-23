@@ -5,7 +5,7 @@ id: josh
 role: PI
 published: true
 email: jmadin@hawaii.edu
-scholar: ho3LuBUAAAAJ
+scholar: mvLy3DcAAAAJ
 github: jmadin
 ---
 
