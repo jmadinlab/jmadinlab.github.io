@@ -14,6 +14,9 @@ ecology/biology and any specific technique mentioned below is appreciated but no
 Enthusiasm and motivation to learn about coral reef fishes or coral restoration are key!
 
 <!--more-->
+
+Preferring students based in Hawaii - No flight or accommodation will be provided - Students need to be able to come to HIMB on Moku O Lo'e.
+
 ### Position 1: Fish Video Analysis
 
 Do you have a passion for coral reef fishes and can’t get enough of watching them? Then this
