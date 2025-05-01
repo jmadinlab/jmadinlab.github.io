@@ -2,7 +2,7 @@
 layout: people
 name: Allison Nims
 id: allison
-role: Undergraduate Researcher
+role: Lab Manager
 current: true
 email:  anims1@my.hpu.edu
 ---
