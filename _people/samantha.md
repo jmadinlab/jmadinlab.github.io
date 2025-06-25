@@ -9,7 +9,7 @@ email: Sbroff@hawaii.edu
 
 ### History
 
-*•Current Student at University of Hawai'i at Manoa majoring in Marine Biology with a bachelors in Science and a minor in french (2023 - present)
+•Current Student at University of Hawai'i at Manoa majoring in Marine Biology with a bachelors in Science and a minor in french (2023 - present)
 
 ### Research
 
