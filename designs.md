@@ -24,7 +24,7 @@ Our research group believe that the early life stages of corals are the most cru
 
 Our group has been working hard on understanding reef features (nooks and crannies) that extrain coral larvae and give them a place to hide and survive while they are small. So far, there are five generations of design. You will find your module in the diagram below. 
 
-DIAGRAM HERE
+<img src="/assets/designs/designs.png" width="500"/>
 
 We 3D print lots of modules and place them on the reef in different environments and see which ones attract the most coral babies. 
 
