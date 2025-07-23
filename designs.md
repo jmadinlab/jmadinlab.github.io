@@ -5,7 +5,7 @@ permalink: /designs/
 sidebar_link: false
 ---
 
-> Congratulations! You have been given a ceramic module that has been designed to capture coral larvae (babies) from the ocean and help them survive and grow.
+> Congratulations! You have been given a ceramic module that has been designed to capture coral babies (larvae) from the ocean and help them survive and grow.
 
 Unlike humans, almost all coral babies die before becoming an adult and reproducing. A single coral colony can produce millions of babies each year, and only a few make it back to the reef. An even smaller fraction survive and grow into mature adults. 
 
@@ -22,9 +22,16 @@ Our research group believe that the early life stages of corals are the most cru
   </div>
 </div>
 
-Our group has been working hard on understanding reef features (nooks and crannies) that extrain coral larvae and give them a place to hide and survive while they are small. So far, there are five generations of designs (G1 t0 G5). See if you can find your design below. 
+Our group has been working hard on understanding reef features (nooks and crannies) that entrain coral larvae and give them a place to hide and survive while they are small. So far, there are five generations of designs (G1 to G5). See if you can find your design below. 
 
-<img src="/assets/designs/designs.png" width="500"/>
+<div class="row">
+  <div class="column">
+    <img src="/assets/designs/IMG_7865.jpg" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/assets/designs/designs.png" style="width:100%">
+  </div>
+</div>
 
 We 3D print lots of modules and place them on the reef in different environments and see which ones attract the most coral babies. 
 
@@ -43,7 +50,7 @@ We use blue light to count coral settlers, like in the picture below.
   </div>
 </div>
 
-After about 18 months, our ceramic modules tend to look like the pictures below. You can see the modules with our designs have many more corals than the control modules that are smooth. 
+After about 18 months, our ceramic modules tend to look like the pictures below. You can see the modules with our designs have many more corals than **control** modules that are smooth and mostly have algae growing on them. 
 
 <div class="row">
   <div class="column">
@@ -53,7 +60,6 @@ After about 18 months, our ceramic modules tend to look like the pictures below.
     <img src="/assets/designs/20241210_145149.jpg" style="width:100%">
   </div>
 </div>
-
 <div class="row">
   <div class="column">
     <img src="/assets/designs/PC020173.JPG" style="width:100%">
@@ -63,6 +69,6 @@ After about 18 months, our ceramic modules tend to look like the pictures below.
   </div>
 </div>
 
-Our designs have been used to kick-start coral growth on large reef restoration projects. 
+Our designs are being used to kick-start coral growth on large reef restoration projects. 
 
 <img src="/assets/designs/IMG_2815.jpeg" style="width:100%">

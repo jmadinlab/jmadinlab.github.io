@@ -9,6 +9,12 @@ $section-spacing: 2rem !default;
 $large-font-size: 1.25rem !default;
 //$sidebar-width: 20rem !default;
 
+.sideDiv {
+    display: inline-block;
+    vertical-align: top;
+    padding: 2px;
+    margin: 2px;
+}
 
 #sidebar {
   flex: 0 0 auto;
