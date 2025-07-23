@@ -22,7 +22,7 @@ Our research group believe that the early life stages of corals are the most cru
   </div>
 </div>
 
-Our group has been working hard on understanding reef features (nooks and crannies) that extrain coral larvae and give them a place to hide and survive while they are small. So far, there are five generations of design. You will find your module in the diagram below. 
+Our group has been working hard on understanding reef features (nooks and crannies) that extrain coral larvae and give them a place to hide and survive while they are small. So far, there are five generations of designs (G1 t0 G5). See if you can find your design below. 
 
 <img src="/assets/designs/designs.png" width="500"/>
 
@@ -45,6 +45,8 @@ We use blue light to count coral settlers, like in the picture below.
 
 After about 18 months, our ceramic modules tend to look like the pictures below. You can see the modules with our designs have many more corals than the control modules that are smooth. 
 
+<div>
+
 <div class="row">
   <div class="column">
     <img src="/assets/designs/20241210_164125.jpg" style="width:100%">
@@ -61,6 +63,7 @@ After about 18 months, our ceramic modules tend to look like the pictures below.
   <div class="column">
     <img src="/assets/designs/PC030205.jpg" style="width:100%">
   </div>
+</div>
 </div>
 
 Our designs have been used to kick-start coral growth on large reef restoration projects. 
