@@ -58,10 +58,10 @@ Here
 
 <div class="row">
   <div class="column">
-    <img src="/assets/designs/PC020173.jpg" style="width:100%">
+    <img src="/assets/designs/PC020173.JPG" style="width:100%">
   </div>
   <div class="column">
-    <img src="/assets/designs/PC030205.jpg" style="width:100%">
+    <img src="/assets/designs/PC030205.JPG" style="width:100%">
   </div>
 </div>
 
