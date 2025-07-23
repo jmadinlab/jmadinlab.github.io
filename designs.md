@@ -45,8 +45,6 @@ We use blue light to count coral settlers, like in the picture below.
 
 After about 18 months, our ceramic modules tend to look like the pictures below. You can see the modules with our designs have many more corals than the control modules that are smooth. 
 
-<div>
-
 <div class="row">
   <div class="column">
     <img src="/assets/designs/20241210_164125.jpg" style="width:100%">
@@ -56,6 +54,8 @@ After about 18 months, our ceramic modules tend to look like the pictures below.
   </div>
 </div>
 
+Here
+
 <div class="row">
   <div class="column">
     <img src="/assets/designs/PC020173.jpg" style="width:100%">
@@ -63,7 +63,6 @@ After about 18 months, our ceramic modules tend to look like the pictures below.
   <div class="column">
     <img src="/assets/designs/PC030205.jpg" style="width:100%">
   </div>
-</div>
 </div>
 
 Our designs have been used to kick-start coral growth on large reef restoration projects. 
