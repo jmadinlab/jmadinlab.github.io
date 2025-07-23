@@ -54,8 +54,6 @@ After about 18 months, our ceramic modules tend to look like the pictures below.
   </div>
 </div>
 
-Here
-
 <div class="row">
   <div class="column">
     <img src="/assets/designs/PC020173.JPG" style="width:100%">
