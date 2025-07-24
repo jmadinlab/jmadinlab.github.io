@@ -69,6 +69,6 @@ After about 18 months, our ceramic modules tend to look like the pictures below.
   </div>
 </div>
 
-Our designs have been cast in concrete in large numbers and added to large reef restoration projects to kick-start coral growth.
+We take the designs we’ve been testing with ceramic and scale them up using concrete. These concrete domes can be produced in larger numbers and added to reef restoration projects to help kick-start coral growth.
 
 <img src="/assets/designs/IMG_2815.jpeg" style="width:100%">
