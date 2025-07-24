@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Coral Settlement Designs
+title: Coral Settlement Modules
 permalink: /designs/
 sidebar_link: false
 ---
 
-> Congratulations! You have been given a ceramic module that has been designed to capture coral babies (larvae) from the ocean and help them survive and grow.
+> Congratulations! You have been given a ceramic module that has been specially designed to capture coral babies (larvae) from the ocean and help them survive and grow.
 
-Unlike humans, almost all coral babies die before becoming an adult and reproducing. A single coral colony can produce millions of babies each year, and only a few make it back to the reef. An even smaller fraction survive and grow into mature adults. 
+Unlike humans, almost all coral babies die before becoming an adult. A single adult coral can produce millions of babies each year, but only a few make it back to the reef. An even smaller fraction survive and grow into mature adults that can reproduce. 
 
 <img src="/assets/designs/larvae.png" width="500"/>
 
