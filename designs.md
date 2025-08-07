@@ -24,14 +24,7 @@ Our research group believe that the early life stages of corals are the most cru
 
 Our group has been working hard on understanding reef features (nooks and crannies) that entrain coral larvae and give them a place to hide and survive while they are small. So far, there are five generations of designs (G1 to G5). See if you can find your design below. 
 
-<div class="row">
-  <div class="column">
-    <img src="/assets/designs/IMG_7865.jpg" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="/assets/designs/designs.png" style="width:100%">
-  </div>
-</div>
+<img src="/assets/designs/Overview designs v2.png"/>
 
 We 3D print lots of modules and place them on the reef in different environments and see which ones attract the most coral babies. You have one of these ceramic 3D prints. It has been kiln fired so that it is strong and will last on the reef for many decades, much like ceramic items found in ship wrecks.  
 
