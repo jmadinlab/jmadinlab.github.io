@@ -13,3 +13,20 @@
   clear: both;
   display: table;
 }
+
+
+.embed-container {
+    display: flex; /* Activates flexbox layout */
+    justify-content: center; /* Centers the embeds horizontally (optional) */
+    gap: 20px; /* Adds space between the two embeds */
+    flex-wrap: wrap; /* Allows items to wrap to the next line on smaller screens */
+}
+
+.instagram-media {
+    /* The default Instagram embed code includes inline styles for max-width and min-width. 
+       You might need to adjust or override these to ensure they share the available space equally. */
+    max-width: 500px !important; /* Keep original max-width to maintain embed appearance */
+    width: 100% !important; /* Ensures the embed is responsive within its container */
+    flex: 1; /* Allows both embeds to grow and share the container space equally */
+    min-width: 300px; /* Ensures embeds don't get too small on very narrow screens */
+}
